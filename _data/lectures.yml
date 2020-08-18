@@ -1,6 +1,7 @@
 - date: 9/1
   title: >
-    1.1: <strong>Course introduction</strong>
+    Lecture 1.1 (LP): <br/>
+    <strong>Course introduction</strong>
   slides:
   video:
   topics:
@@ -11,7 +12,8 @@
 
 - date: 9/3
   title: >
-    1.2: <strong>Multimodal applications and datasets</strong>
+    Lecture 1.2 (LP): <br/>
+    <strong>Multimodal applications and datasets</strong>
   slides:
   video:
   topics:
@@ -22,7 +24,8 @@
 
 - date: 9/8
   title: >
-    2.1: <strong>Basic concepts: neural networks</strong>
+    Lecture 2.1 (LP): <br/>
+    <strong>Basic concepts: neural networks</strong>
   slides:
   video:
   topics:
