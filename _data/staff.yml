@@ -1,0 +1,38 @@
+Instructors:
+    - name: Eric P. Xing
+      email: epxing@cs.cmu.edu
+      url: https://www.cs.cmu.edu/~epxing/
+      office-hours: "Monday 1:30-2:30pm, GHC 8101"
+      image: staff/eric.jpg
+
+Head-GSI:
+    - name: Maruan Al-Shedivat
+      email: alshedivat@cs.cmu.edu
+      url: https://www.cs.cmu.edu/~mshediva/
+      office-hours: "Wednesday 6-7pm, GHC 8115"
+      image: staff/maruan.png
+
+GSI:
+    - name: Lisa Lee
+      email: lslee@cs.cmu.edu
+      url: http://leelisa.com
+      office-hours: "Monday 6-7pm, GHC 8011"
+      image: staff/lisa.jpg
+
+    - name: Xun Zheng
+      email: xunzheng@cs.cmu.edu
+      url: https://www.cs.cmu.edu/~xunzheng/
+      office-hours: "Friday 4-5pm, GHC 8013"
+      image: staff/xun.jpg
+
+    - name: Hao Zhang
+      email: hao@cs.cmu.edu
+      url: https://www.cs.cmu.edu/~hzhang2/
+      office-hours: "Friday 12-1pm, NSH 4225"
+      image: staff/hao.jpg
+
+    - name: Paul Liang
+      email: pliang@cs.cmu.edu
+      url: https://www.cs.cmu.edu/~pliang/
+      office-hours: "Thursday 5-6pm, GHC 8011"
+      image: staff/paul.jpg
