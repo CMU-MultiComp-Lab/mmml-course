@@ -9,7 +9,7 @@ title: Logistics
 
 ***
 
-### Course format
+### Course Format
 
 Lectures will be performed Tuesdays and Thursdays at 3:20pm. Each lecture will focus on a specific
 mathematical concept related to multimodal machine learning. These lectures will be given by the
@@ -22,7 +22,12 @@ Quizzes will be done using Canvas as well.
 
 **Zoom:** We will use the Zoom video platform for the live lectures on Tuesdays and Thursdays. Links
 to the live lectures will be available on Canvas. The lectures will also be recorded to allow students
-to watch them again later on. 
+to watch them again later. Please make sure that your Internet connection and equipment are set
+up to use Zoom. During our class meetings, please keep your mic muted. If you have a question or
+want to answer a question, please use the chat or the “raise hand” feature (available when the
+participant list is pulled up). A TA will be monitoring these channels in order to share this
+information with the instructor. All course lectures. will be audio/video recorded, to allow students
+to watch asynchronously the lectures, if needed.
 
 **Piazza:** We will be using Piazza for class communication and announcement. The system is highly
 catered to getting you help fast and efficiently from classmates, the TAs and the instructor. Rather
@@ -76,9 +81,12 @@ implement and evaluate state-of-the-art baseline models on their project dataset
 - **Final assignment** (Due on Sunday 12/13 at 11:59pm ET) – Students should explore new ideas
 to model their multimodal research project.
 
-### Grading
+### Grades
 
-- Grading breakdown
+Remember: If you registered for this class, you have until November 9th to change your grade in
+this course from a letter grade to a Pass/Fail grade.
+
+- **rading breakdown**
   - Lecture participation and mini-quizzes 15%
   - Reading assignments and question sets 15%
   - Course project assignments:
@@ -86,7 +94,8 @@ to model their multimodal research project.
     - First project assignment and presentation 15%
     - Mid-term project assignment and presentation 20%
     - Final project assignment and presentation 30%
-- Lecture participation and mini-quizzes
+
+- **Lecture participation and mini-quizzes**
   - Lectures can be attended live (using Zoom) or watched later. Students are encouraged
 to attend lectures live as often as possible, to allow them to ask clarification questions,
 if needed. Questions can also be posted on Piazza.
@@ -99,7 +108,8 @@ lecture and students will have 48 hours to complete them. No mini-quizzes are
 expected for weeks when a project assignment (first, midterm or final) is due. No miniquiz during the first week and during Thanksgiving week.
     - We expect 10 mini-quizzes this semester.
   - Each mini-quiz is worth 1.5 points, for a total of 15 points.
-- Reading assignments and question sets
+
+- **Reading assignments and question sets**
   - Reading assignments are designed to complement the lectures and showcase recent
 state-of-the-art research. Most reading assignments will consist of 2 research papers,
 sometime accompanied of optional readings, and a set of 2 or 3 questions. The
@@ -119,7 +129,8 @@ when only one paper is included. In other words:
 answers will be worth two points.
     - If the question set was designed for only one research paper, then your
 answer will be wort one point.
-- Course project:
+
+- **Course project assignments**:
   - The goal of the course project is to experiment with state-of-the-art multimodal
 algorithms and computational models.
   - Students should create teams between 3 to 5 students preferably (special approval will
@@ -158,16 +169,33 @@ exploration of new ideas (e.g., better accuracy results will not mean better cou
 grade). Students are encouraged to explore new research directions. The final project
 assignment also contains written and oral components.
 
+#### Note about late submissions
+
+In general, submitting assignments on time lets the instructional team provide feedback in a more
+timely and efficient manner. Timely submissions are particularly important for assignments with
+discussions and peer feedback, such as the reading assignments and the project assignments.
+Since things happen, please contact me and the TAs as soon as possible (the best option is usually
+via Piazza) if you are not able to submit your assignment in time. The default rule for the project
+assignments will be that you are eligible for 90% of the grade the first 48 hours that the
+assignment is late. For the reading assignments and course participation reports, late submissions
+(up to 48 hours) will be deducted 0.5 point. If you must submit beyond 48 hours past the due date,
+please contact me and the TAs as soon as possible so we can make arrangements.
+
 #### Accommodations for Students with Disabilities
 
 If you have a disability and have an accommodations letter from the Disability Resources office, I
 encourage you to discuss your accommodations and needs with me as early in the semester as
-possible. I will work with you to ensure that accommodations are provided as appropriate. If you
+possible. I will work with you to ensure that accommodations are provided as appropriate. If you 
 suspect that you may have a disability and would benefit from accommodations but are not yet
-registered with the Office of Disability Resources, I encourage you to contact them at 
+registered with the Office of Disability Resources, I encourage you to contact them at
 [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
 
 #### Statement on Student Wellness
+
+This semester is unlike any other. We are all under a lot of stress and uncertainty at this time.
+Attending Zoom classes all day can take its toll on our mental health. Make sure to move regularly,
+eat well, and reach out to your support system or me [(morency@cs.cmu.edu)](mailto:morency@cs.cmu.edu)
+if you need to. We can all benefit from support in times of stress, and this semester is no exception.
 
 As a student, you may experience a range of challenges that can interfere with learning, such as
 strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating
@@ -176,6 +204,36 @@ academic performance and/or reduce your ability to participate in daily activiti
 are available, and treatment does work. You can learn more about confidential mental health
 services available on campus at: [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/).
 Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
+
+#### Diversity statement
+
+**Every individual must be treated with respect.** The ways we are diverse are many and are
+fundamental to building and maintaining an equitable and an inclusive campus community. These
+include but are not limited to: race, color, national origin, sex, disability, age, sexual orientation,
+gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. We at
+CMU, will work to promote diversity, equity and inclusion not only because it is necessary for
+excellence and innovation, but because it is just. Therefore, while we are imperfect, we all need to
+fully commit to work, both inside and outside of our classrooms to increase our commitment to
+build and sustain a campus community that embraces these core values.
+
+It is the responsibility of each of us to create a safer and more inclusive environment. Incidents of
+bias or discrimination, whether intentional or unintentional in their occurrence, contribute to
+creating an unwelcoming environment for individuals and groups at the university. If you
+experience or observe unfair or hostile treatment on the basis of identity, we encourage you to
+speak out for justice and support in the moment and/or share your experience using the following
+resources:
+
+- Center for Student Diversity and Inclusion: [csdi@andrew.cmu.edu](mailto:csdi@andrew.cmu.edu),
+(412) 268 2150, [http://www.cmu.edu/student-diversity](http://www.cmu.edu/student-diversity/).
+
+- Report-It online anonymous reporting platform: [http://www.reportit.net](http://www.reportit.net)
+username: tartans
+password: plaid
+
+All reports will be acknowledged, documented, and a determination will be made regarding a
+course of action. All experiences shared will be used to transform the campus climate to be more
+equitable and just.
+
 
 ### Bibliography
 Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
