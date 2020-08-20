@@ -64,21 +64,19 @@ DOI: 10.1007/978-0-387-76316-3 (freely available on SpringerLink for CMU student
 Jean-Philippe Thiran, Ferran Marqués and Hervé Bourlard. Academic Press, ISBN: 978-0-12-
 374825-6
 
-### Course Topics
-
 ### Project Assignments and Timeline
 
 (See Piazza for additional information)
-- **Dataset preferences** (Due on Tuesday 9/8 at 11:59pm ET) – Let us know your preferences for
+- **Dataset preferences** (Due on Tuesday 9/8 at 8pm ET) – Let us know your preferences for
 the datasets that you would like to use for the course project. This will help with the team
 matching process.
-- **Project Pre-proposal** (Due on Wednesday 9/16 at 11:59pm ET) – You should have selected
+- **Project Pre-proposal** (Due on Wednesday 9/16 at 8pm ET) – You should have selected
 your teammates, dataset, and task. Submit a 1-page pre-proposal plan.
-- **First assignment** (Due on Sunday 10/11 at 11:59pm ET) – This assignment focuses on unimodal
+- **First assignment** (Due on Friday 10/9 at 8pm ET) – This assignment focuses on unimodal
 representations and requires a good literature review on the topic of your proposed project
-- **Midterm assignment** (Due on Sunday 11/14 at 11:59pm ET) – Students are asked to
+- **Midterm assignment** (Due on Friday 11/12 at 8pm ET) – Students are asked to
 implement and evaluate state-of-the-art baseline models on their project dataset.
-- **Final assignment** (Due on Sunday 12/13 at 11:59pm ET) – Students should explore new ideas
+- **Final assignment** (Due on Friday 12/11 at 8pm ET) – Students should explore new ideas
 to model their multimodal research project.
 
 ### Grades
