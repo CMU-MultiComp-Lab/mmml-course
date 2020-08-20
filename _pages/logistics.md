@@ -84,7 +84,7 @@ to model their multimodal research project.
 Remember: If you registered for this class, you have until November 9th to change your grade in
 this course from a letter grade to a Pass/Fail grade.
 
-- **rading breakdown**
+- **Grading breakdown**
   - Lecture participation and mini-quizzes 15%
   - Reading assignments and question sets 15%
   - Course project assignments:
@@ -97,17 +97,14 @@ this course from a letter grade to a Pass/Fail grade.
   - Lectures can be attended live (using Zoom) or watched later. Students are encouraged
 to attend lectures live as often as possible, to allow them to ask live clarification
 questions, if needed. Some lectures will also contain some live survey questions.
-
   - While watching the lecture (either live or recorded video), students are required to fill
 a note-taking form and submit it within 42 hours from the end of the live lecture. For
 example, if the lecture ended at 4:40pm ET on Tuesday, the note-taking form is due
 Thursday at 10:40am ET.
-
   - Students need to use the provided online template for the note-taking form. This form
 was designed for two main purposes: (1) train students for taking active notes during
 lectures, and (2) offer students the opportunity to ask questions about the content of
 the lectures.
-
     - The note-taking form will contain 4 sub-sections, one for each of the 20-
 minute segments of the lecture (for a total of 1h20m).
     - For each sub-section, students are asked to either include a short statement
@@ -115,17 +112,14 @@ summarizing the main take-home message of the past 20 minutes, or write
 down a question that student would like to get an answer about, related to
 the past 20 minutes. Students should also include the slide numbers relevant
 to the question/statement.
-
   - The student’s questions will be reviewed by TAs and instructor. The most popular
 questions will be answered using Piazza, or with extra information during the following
 lecture. Students are always welcome to post questions directly on Piazza at any time
 if they would like clarifications or have a follow-up question.
-
   - These note-taking forms will not be required for the first week and for the
 Thanksgiving week. Also, no forms are expected for weeks when a project assignment
 (first, midterm or final) is due. We expect about 20 lectures where note-taking forms
 need to be submitted.
-
   - Each submitted form will be graded for 1.0 point, with 0.25 point for each sub-section
 of the form. The top 15 form will be kept for the lecture participation final grade,
 worth 15 points.
@@ -135,73 +129,61 @@ worth 15 points.
 state-of-the-art research. Most reading assignments will consist of 2 or 3 research
 papers, sometime accompanied of optional readings. The list of research papers will be
 released at the latest on the Monday of each week.
-
   - To encourage exchange of ideas and knowledge between students, each student will
 be part of one study group. A study group consist of 9-15 students. These groups will
 be formed based on the project teams (see more details in next section about course
 project). Each study group will consist of approximately 3-4 project teams together.
 Each study group will have its own discussion forum to ask questions and share ideas.
-
   - For each reading assignment, each student is required to read only one research paper
 (out of the 2 or 3 assigned paper). Students need to fill a summary form for the paper
 they had to read and post the summary form before Friday 8pm ET. These summaries
 will be shared with the other students in their study group. The goal is to write the
 summaries so that other members in the study group can learn from it, and possibly
 ask follow-up questions.
-
   - During the 7-day period of the reading assignment (Monday 8pm ET until the following
 Monday 8pm ET), each student is required to post on the group’s forum at least once,
 either a question or an answer. The question could be about the paper they are
 currently reading, or about the other paper(s) that other group members are reading.
-
   - Reading assignments will be per released weekly, with exceptions when a project
 assignment (first, midterm or final) is due the same week. Also, no reading
 assignments during the first week and during Thanksgiving week.
     - We expect 10 reading assignments this semester.
-
   - Each reading assignment is worth 1.5 points: 1.0 point for the paper summary and 0.5
 point for posting either a question or answer in the group’s forum.
 
 - **Course project assignments**:
   - The goal of the course project is to experiment with state-of-the-art multimodal
 algorithms and computational models.
-
   - Students should create teams between 3 to 5 students preferably (special approval will
 be required for larger teams; no smaller teams will be allowed). The size and depth of
 the project should be adjusted to reflect the size of the team.
-
   - Each team is required to create a code repository (github) for their project. All project
 members should be included in this project and should actively use it. It is important
 that all team members participate equally to the project. The first project assignment
 and follow-up reports (midterm and final reports) will need to outline the tasks of each
 student. If any team member has concern in the participation level of other members,
 they should contact the instructor and/or TA as promptly as possible.
-
   - Students have flexibility in the selection of their project topic. The project should be
 directly aligned with the course content and include at the minimum two modalities,
 preferably language and vision. At the beginning of the semester, the instructor will
 propose a set of research problems and datasets which can be used for the course
 projects.
-
   - Pre-proposal: We ask students to prepare a pre-proposal early in the semester to
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
-
   - First project assignment: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
 dataset and problem. Feedback will be given by instructors as well as other students
 from the course.
-
   - Midterm project assignment: The midterm project assignment is designed to
 implement multimodal baseline models and perform some error analysis on these
 results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
 have already implemented some of the state-of-the-art baseline models for their
 selected multimodal task and dataset.
-
   - Final project assignment: Using the same dataset and task selected for the midterm
 report, the final project assignment is designed to explore new research ideas. This
 assignment is not graded based on the quality of the results, but instead on the
