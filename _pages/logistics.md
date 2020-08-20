@@ -133,35 +133,43 @@ answer will be wort one point.
 - **Course project assignments**:
   - The goal of the course project is to experiment with state-of-the-art multimodal
 algorithms and computational models.
+
   - Students should create teams between 3 to 5 students preferably (special approval will
 be required for larger teams; no smaller teams will be allowed). The size and depth of
 the project should be adjusted to reflect the size of the team.
+
   - Each team is required to create a code repository (github) for their project. All project
 members should be included in this project and should actively use it. It is important
 that all team members participate equally to the project. The first project assignment
 and follow-up reports (midterm and final reports) will need to outline the tasks of each
 student. If any team member has concern in the participation level of other members,
 they should contact the instructor and/or TA as promptly as possible.
+
   - Students have flexibility in the selection of their project topic. The project should be
-directly aligned with the course content and include at the minimum two modalities.
-At the beginning of the semester, the instructor will propose a set of research
-problems and datasets which can be used for the course projects.
+directly aligned with the course content and include at the minimum two modalities,
+preferably language and vision. At the beginning of the semester, the instructor will
+propose a set of research problems and datasets which can be used for the course
+projects.
+
   - Pre-proposal: We ask students to prepare a pre-proposal early in the semester to
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
+
   - First project assignment: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
 dataset and problem. Feedback will be given by instructors as well as other students
 from the course.
+
   - Midterm project assignment: The midterm project assignment is designed to
 implement multimodal baseline models and perform some error analysis on these
 results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
 have already implemented some of the state-of-the-art baseline models for their
 selected multimodal task and dataset.
+
   - Final project assignment: Using the same dataset and task selected for the midterm
 report, the final project assignment is designed to explore new research ideas. This
 assignment is not graded based on the quality of the results, but instead on the
