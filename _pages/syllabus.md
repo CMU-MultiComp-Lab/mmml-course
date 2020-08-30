@@ -171,11 +171,11 @@ directly aligned with the course content and include at the minimum two modaliti
 preferably language and vision. At the beginning of the semester, the instructor will
 propose a set of research problems and datasets which can be used for the course
 projects.
-  - Pre-proposal: We ask students to prepare a pre-proposal early in the semester to
+  - **Pre-proposal**: We ask students to prepare a pre-proposal early in the semester to
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
-   - First project assignment: The first project assignment consists of a written report and
+   - **First project assignment**: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
@@ -184,7 +184,7 @@ dataset and problem.
 students will be asked to watch the videos and share feedback. Each student
 will be assigned a subset of videos to watch. Feedback will also be given by
 instructor and TAs.
-  - Midterm project assignment: The midterm project assignment is designed to
+  - **Midterm project assignment**: The midterm project assignment is designed to
 implement multimodal baseline models and perform some error analysis on these
 results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
@@ -194,7 +194,7 @@ selected multimodal task and dataset.
 midterm presentation videos and share feedback. Each student will be
 assigned a subset of videos to watch. Feedback will also be given by instructor
 and TAs.
-  - Final project assignment: Using the same dataset and task selected for the midterm
+  - **Final project assignment**: Using the same dataset and task selected for the midterm
 report, the final project assignment is designed to explore new research ideas. This
 assignment is not graded based on the quality of the results, but instead on the
 exploration of new ideas (e.g., better accuracy results will not mean better course
