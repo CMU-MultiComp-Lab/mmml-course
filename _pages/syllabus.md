@@ -21,13 +21,10 @@ Piazza (see more details below) and the grading platform Gradescope directly fro
 Quizzes will be done using Canvas as well.
 
 **Zoom:** We will use the Zoom video platform for the live lectures on Tuesdays and Thursdays. Links
-to the live lectures will be available on Canvas. The lectures will also be recorded to allow students
-to watch them again later. Please make sure that your Internet connection and equipment are set
-up to use Zoom. During our class meetings, please keep your mic muted. If you have a question or
+to the live lectures will be available on Canvas. The lectures will also be recorded to allow students to watch them again later. Please make sure that your Internet connection and equipment are set up to use Zoom. During our class meetings, please keep your mic muted. If you have a question or
 want to answer a question, please use the chat or the “raise hand” feature (available when the
 participant list is pulled up). A TA will be monitoring these channels in order to share this
-information with the instructor. All course lectures. will be audio/video recorded, to allow students
-to watch asynchronously the lectures, if needed.
+information with the instructor. All course lectures. will be audio/video recorded, to allow students to watch asynchronously the lectures, if needed.
 
 **Piazza:** We will be using Piazza for class communication and announcement. The system is highly
 catered to getting you help fast and efficiently from classmates, the TAs and the instructor. Rather
@@ -175,7 +172,7 @@ projects.
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
-   - **First project assignment**: The first project assignment consists of a written report and
+  - **First project assignment**: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
