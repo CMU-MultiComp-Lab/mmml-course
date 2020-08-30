@@ -119,8 +119,9 @@
   logistics:
   
 - date: 10/6
-  number: Lecture 6.1
-  title: <strong>First project assignment</strong> (live working sessions instead of lectures)
+  title: >
+    Lecture 6.1: <br/>
+    <strong>First project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
@@ -128,8 +129,9 @@
   logistics:
   
 - date: 10/8
-  number: Lecture 6.2
-  title: <strong>First project assignment</strong> (live working sessions instead of lectures)
+  title: >
+    Lecture 6.2: <br/>
+    <strong>First project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
