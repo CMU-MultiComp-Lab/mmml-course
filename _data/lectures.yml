@@ -85,8 +85,7 @@
 - date: 9/24
   title: >
     Lecture 4.2: <br/>
-    <strong>
-Coordinated representations</strong>
+    <strong>Coordinated representations</strong>
   slides:
   video:
   topics:
@@ -126,8 +125,6 @@ Coordinated representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
   readings:
   logistics:
   
@@ -138,79 +135,85 @@ Coordinated representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
   readings:
   logistics:
   
 - date: 10/13
   title: >
     Lecture 7.1: <br/>
-    <strong> </strong>
+    <strong>Alignment and representation</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Multi-head attention <br/>
+    - Multimodal transformers
   readings:
   logistics:
   
 - date: 10/15
   title: >
     Lecture 7.2: <br/>
-    <strong> </strong>
+    <strong>Probabilistic graphical models</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Dynamic Bayesian networks <br/>
+    - Coupled and factor HMMs
   readings:
   logistics:
   
 - date: 10/20
   title: >
     Lecture 8.1: <br/>
-    <strong> </strong>
+    <strong>Discriminative graphical models</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Conditional random fields <br/>
+    - Continuous and fully-connected CRFs
   readings:
   logistics:
   
 - date: 10/22
   title: >
     Lecture 8.2: <br/>
-    <strong> </strong>
+    <strong>Neural Generative Models</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Variational auto-encoder <br/>
+    - Generative adversarial networks
   readings:
   logistics:
-  
+
 - date: 10/27
   title: >
     Lecture 9.1: <br/>
-    <strong> </strong>
+    <strong>Reinforcement learning</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Markov decision process <br/>
+    - Q learning and policy gradients
   readings:
   logistics:
   
 - date: 10/29
   title: >
     Lecture 9.2: <br/>
-    <strong> </strong>
+    <strong>Multimodal RL</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Deep Q learning <br/>
+    - Multimodal applications
   readings:
   logistics:
+
+
+Fusion and co-learning
+ Multi-kernel learning and fusion
+ Few shot learning and co-learning
+
+New research directions
+ Recent approaches in multimodal ML 
