@@ -210,10 +210,82 @@
   readings:
   logistics:
 
+- date: 11/3
+  title: >
+    Lecture 10.1: <br/>
+    <strong>Fusion and co-learning</strong>
+  slides:
+  video:
+  topics:
+    - Multi-kernel learning and fusion <br/>
+    - Few shot learning and co-learning
+  readings:
+  logistics:
+  
+- date: 11/5
+  title: >
+    Lecture 10.2: <br/>
+    <strong>New research directions</strong>
+  slides:
+  video:
+  topics:
+    - Recent approaches in multimodal ML
+  readings:
+  logistics:
 
-Fusion and co-learning
- Multi-kernel learning and fusion
- Few shot learning and co-learning
+- date: 11/10
+  title: >
+    Lecture 11.1: <br/>
+    <strong>Mid-term project assignment (live working sessions instead of lectures)</strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 11/12
+  title: >
+    Lecture 11.2: <br/>
+    <strong>Mid-term project assignment (live working sessions instead of lectures)</strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture : <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture : <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture : <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
 
-New research directions
- Recent approaches in multimodal ML 
+
