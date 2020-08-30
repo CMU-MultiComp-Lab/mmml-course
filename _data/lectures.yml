@@ -69,71 +69,53 @@
     - Backpropagation Through Time
   readings:
   logistics:
-  
- Multimodal representation learning
- Multimodal auto-encoders
- Multimodal joint representations
-
-Coordinated representations
- Deep canonical correlation analysis
- Non-negative matrix factorization
 
 - date: 9/22
   title: >
     Lecture 4.1: <br/>
-    <strong> </strong>
+    <strong>Multimodal representation learning</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Multimodal auto-encoders <br/>
+    - Multimodal joint representations
   readings:
   logistics:
   
 - date: 9/24
   title: >
     Lecture 4.2: <br/>
-    <strong> </strong>
+    <strong>
+Coordinated representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Deep canonical correlation analysis <br/>
+    - Non-negative matrix factorization
   readings:
   logistics:
-  
-Multimodal alignment
- Explicit - dynamic time warping
- Implicit - attention models
-
-Structured representations
- Module networks
- Tree-based and stack models
-
-
-
   
 - date: 9/29
   title: >
     Lecture 5.1: <br/>
-    <strong> </strong>
+    <strong>Multimodal alignment</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Explicit - dynamic time warping <br/>
+    - Implicit - attention models
   readings:
   logistics:
   
 - date: 10/1
   title: >
     Lecture 5.2: <br/>
-    <strong> </strong>
+    <strong>Structured representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Module networks <br/>
+    - Tree-based and stack models
   readings:
   logistics:
   
