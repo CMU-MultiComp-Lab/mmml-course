@@ -37,36 +37,36 @@
 - date: 9/10
   title: >
     Lecture 2.2: <br/>
-    <strong> </strong>
+    <strong>Basic concepts: network optimization</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Gradients and backpropagation <br/>
+    - Practical deep model optimization
   readings:
   logistics:
   
 - date: 9/15
   title: >
     Lecture 3.1: <br/>
-    <strong> </strong>
+    <strong>Visual unimodal representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Convolutional kernels and CNNs <br/>
+    - Residual network and skip connection
   readings:
   logistics:
   
 - date: 9/17
   title: >
     Lecture 3.2: <br/>
-    <strong> </strong>
+    <strong>Language unimodal representations</strong>
   slides:
   video:
   topics:
-    - <br/>
-    - 
+    - Gated networks and LSTM <br/>
+    - Backpropagation Through Time
   readings:
   logistics:
   
