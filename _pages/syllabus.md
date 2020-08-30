@@ -26,7 +26,7 @@ want to answer a question, please use the chat or the “raise hand” feature (
 participant list is pulled up). A TA will be monitoring these channels in order to share this
 information with the instructor. All course lectures. will be audio/video recorded, to allow students to watch asynchronously the lectures, if needed.
 
-**Piazza:** We will be using Piazza for class communication and announcement. The system is highly
+**Piazza:** We will be using Piazza for class communication and announcements. The system is highly
 catered to getting you help fast and efficiently from classmates, the TAs and the instructor. Rather
 than emailing questions to the teaching staff, you are encouraged to post your questions on
 Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
