@@ -1,6 +1,6 @@
 - date: 9/1
   title: >
-    Lecture 1.1 (LP): <br/>
+    Lecture 1.1: <br/>
     <strong>Course introduction</strong>
   slides:
   video:
@@ -12,7 +12,7 @@
 
 - date: 9/3
   title: >
-    Lecture 1.2 (LP): <br/>
+    Lecture 1.2: <br/>
     <strong>Multimodal applications and datasets</strong>
   slides:
   video:
@@ -24,12 +24,192 @@
 
 - date: 9/8
   title: >
-    Lecture 2.1 (LP): <br/>
+    Lecture 2.1: <br/>
     <strong>Basic concepts: neural networks</strong>
   slides:
   video:
   topics:
     - Language, visual and acoustic <br/>
     - Loss functions and neural networks
+  readings:
+  logistics:
+  
+- date: 9/10
+  title: >
+    Lecture 2.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 9/15
+  title: >
+    Lecture 3.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 9/17
+  title: >
+    Lecture 3.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 9/22
+  title: >
+    Lecture 4.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 9/24
+  title: >
+    Lecture 4.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 9/29
+  title: >
+    Lecture 5.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/1
+  title: >
+    Lecture 5.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/6
+  title: >
+    Lecture 6.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/8
+  title: >
+    Lecture 6.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/13
+  title: >
+    Lecture 7.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/15
+  title: >
+    Lecture 7.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/20
+  title: >
+    Lecture 8.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/22
+  title: >
+    Lecture 8.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/27
+  title: >
+    Lecture 9.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
+  readings:
+  logistics:
+  
+- date: 10/29
+  title: >
+    Lecture 9.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - <br/>
+    - 
   readings:
   logistics:
