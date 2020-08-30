@@ -70,6 +70,14 @@
   readings:
   logistics:
   
+ Multimodal representation learning
+ Multimodal auto-encoders
+ Multimodal joint representations
+
+Coordinated representations
+ Deep canonical correlation analysis
+ Non-negative matrix factorization
+
 - date: 9/22
   title: >
     Lecture 4.1: <br/>
@@ -93,6 +101,17 @@
     - 
   readings:
   logistics:
+  
+Multimodal alignment
+ Explicit - dynamic time warping
+ Implicit - attention models
+
+Structured representations
+ Module networks
+ Tree-based and stack models
+
+
+
   
 - date: 9/29
   title: >
@@ -121,7 +140,7 @@
 - date: 10/6
   title: >
     Lecture 6.1: <br/>
-    <strong> </strong>
+    <strong>First project assignment (live working sessions instead of lectures)</strong>
   slides:
   video:
   topics:
@@ -133,7 +152,7 @@
 - date: 10/8
   title: >
     Lecture 6.2: <br/>
-    <strong> </strong>
+    <strong>First project assignment (live working sessions instead of lectures)</strong>
   slides:
   video:
   topics:
