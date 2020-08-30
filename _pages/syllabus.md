@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fall2020/logistics/
-title: Logistics
+permalink: /fall2020/syllabus/
+title: Syllabus
 ---
 
 * (The list will be replaced with the table of contents.)
