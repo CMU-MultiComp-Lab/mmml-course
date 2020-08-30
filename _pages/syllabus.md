@@ -172,18 +172,25 @@ projects.
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
-  - First project assignment: The first project assignment consists of a written report and
+   - First project assignment: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
-dataset and problem. Feedback will be given by instructors as well as other students
-from the course.
+dataset and problem.
+    - Peer feedback: Following the submission of the proposal video recordings,
+students will be asked to watch the videos and share feedback. Each student
+will be assigned a subset of videos to watch. Feedback will also be given by
+instructor and TAs.
   - Midterm project assignment: The midterm project assignment is designed to
 implement multimodal baseline models and perform some error analysis on these
 results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
 have already implemented some of the state-of-the-art baseline models for their
 selected multimodal task and dataset.
+    - Peer feedback: Like the first assignment, students will be asked to watch the
+midterm presentation videos and share feedback. Each student will be
+assigned a subset of videos to watch. Feedback will also be given by instructor
+and TAs.
   - Final project assignment: Using the same dataset and task selected for the midterm
 report, the final project assignment is designed to explore new research ideas. This
 assignment is not graded based on the quality of the results, but instead on the
