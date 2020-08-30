@@ -235,110 +235,108 @@
 
 - date: 11/10
   title: >
-    Lecture 11.1: <br/>
-    <strong>Mid-term project assignment (live working sessions instead of lectures)</strong>
+    Lecture 11.1:
+    <strong>Mid-term project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
   
 - date: 11/12
   title: >
-    Lecture 11.2: <br/>
-    <strong>Mid-term project assignment (live working sessions instead of lectures)</strong>
+    Lecture 11.2:
+    <strong>Mid-term project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
   
 - date: 
   title: >
     Lecture 12.1: <br/>
-    <strong> </strong>
+    <strong>Embodied Language Grounding</strong>
   slides:
   video:
   topics:
-    - 
+    - Connecting Language to Action <br/>
+    - Guest lecture: Yonatan Bisk
   readings:
   logistics:
   
 - date: 
   title: >
     Lecture 12.2: <br/>
-    <strong> </strong>
+    <strong>Multi-lingual representations</strong>
   slides:
   video:
   topics:
-    - 
+    - Neural machine translation <br/>
+    - Guest lecture: To be confirmed
   readings:
   logistics:
   
 - date: 
   title: >
-    Lecture 13.1: <br/>
-    <strong>Thanksgiving week (no lectures)</strong>
+    Lecture 13.1:
+    <strong>Thanksgiving week</strong> (no lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
 
 - date: 
   title: >
-    Lecture 13.2: <br/>
-    <strong>Thanksgiving week (no lectures)</strong>
+    Lecture 13.2:
+    <strong>Thanksgiving week</strong> (no lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
   
 - date: 
   title: >
     Lecture 14.1: <br/>
-    <strong> </strong>
+    <strong>Bias and fairness</strong>
   slides:
   video:
   topics:
-    - 
+    - Bias and fairness in NLP & multimodal <br/>
+    - Guest lecture: To be confirmed
   readings:
   logistics:
   
 - date: 
   title: >
     Lecture 14.2: <br/>
-    <strong> </strong>
+    <strong>Learning to connect text and images</strong>
   slides:
   video:
   topics:
-    - 
+    - Discourse approaches, text & images <br/>
+    - Guest lecture: Malihe Alikhani
   readings:
   logistics:
   
 - date: 
   title: >
-    Lecture 15.1: <br/>
-    <strong>Final project assignment (live working sessions instead of lectures)</strong>
+    Lecture 15.1:
+    <strong>Final project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
 
 - date: 
   title: >
-    Lecture 15.2: <br/>
-    <strong>Final project assignment (live working sessions instead of lectures)</strong>
+    Lecture 15.2:
+    <strong>Final project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
-    - 
   readings:
   logistics:
