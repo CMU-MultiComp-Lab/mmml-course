@@ -23,7 +23,7 @@ title: Schedule
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.title contains 'instead of lectures' %}
+    {% if lecture.title contains 'lectures' %}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
