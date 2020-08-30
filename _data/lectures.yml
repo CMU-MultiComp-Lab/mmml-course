@@ -121,7 +121,7 @@
 - date: 10/6
   title: >
     Lecture 6.1:
-    <strong>First project assignment (live working sessions instead of lectures)</strong>
+    <strong>First project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
@@ -131,7 +131,7 @@
 - date: 10/8
   title: >
     Lecture 6.2:
-    <strong>First project assignment (live working sessions instead of lectures)</strong>
+    <strong>First project assignment</strong> (live working sessions instead of lectures)
   slides:
   video:
   topics:
@@ -253,7 +253,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 11/17
   title: >
     Lecture 12.1: <br/>
     <strong>Embodied Language Grounding</strong>
@@ -265,7 +265,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 11/19
   title: >
     Lecture 12.2: <br/>
     <strong>Multi-lingual representations</strong>
@@ -277,7 +277,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 11/24
   title: >
     Lecture 13.1:
     <strong>Thanksgiving week</strong> (no lectures)
@@ -287,7 +287,7 @@
   readings:
   logistics:
 
-- date: 
+- date: 11/26
   title: >
     Lecture 13.2:
     <strong>Thanksgiving week</strong> (no lectures)
@@ -297,7 +297,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 12/1
   title: >
     Lecture 14.1: <br/>
     <strong>Bias and fairness</strong>
@@ -309,7 +309,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 12/3
   title: >
     Lecture 14.2: <br/>
     <strong>Learning to connect text and images</strong>
@@ -321,7 +321,7 @@
   readings:
   logistics:
   
-- date: 
+- date: 12/8
   title: >
     Lecture 15.1:
     <strong>Final project assignment</strong> (live working sessions instead of lectures)
@@ -331,7 +331,7 @@
   readings:
   logistics:
 
-- date: 
+- date: 12/10
   title: >
     Lecture 15.2:
     <strong>Final project assignment</strong> (live working sessions instead of lectures)
