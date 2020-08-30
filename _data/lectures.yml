@@ -257,7 +257,7 @@
   
 - date: 
   title: >
-    Lecture : <br/>
+    Lecture 12.1: <br/>
     <strong> </strong>
   slides:
   video:
@@ -268,7 +268,7 @@
   
 - date: 
   title: >
-    Lecture : <br/>
+    Lecture 12.2: <br/>
     <strong> </strong>
   slides:
   video:
@@ -279,8 +279,8 @@
   
 - date: 
   title: >
-    Lecture : <br/>
-    <strong> </strong>
+    Lecture 13.1: <br/>
+    <strong>Thanksgiving week (no lectures)</strong>
   slides:
   video:
   topics:
@@ -288,4 +288,57 @@
   readings:
   logistics:
 
+- date: 
+  title: >
+    Lecture 13.2: <br/>
+    <strong>Thanksgiving week (no lectures)</strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture 14.1: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture 14.2: <br/>
+    <strong> </strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
+  
+- date: 
+  title: >
+    Lecture 15.1: <br/>
+    <strong>Final project assignment (live working sessions instead of lectures)</strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
 
+- date: 
+  title: >
+    Lecture 15.2: <br/>
+    <strong>Final project assignment (live working sessions instead of lectures)</strong>
+  slides:
+  video:
+  topics:
+    - 
+  readings:
+  logistics:
