@@ -85,71 +85,74 @@ Remember: If you registered for this class, you have until November 9th to chang
 this course from a letter grade to a Pass/Fail grade.
 
 - **Grading breakdown**
-  - Lecture participation and mini-quizzes 15%
-  - Reading assignments and question sets 15%
-  - Course project assignments:
-    - Project preferences and pre-proposal 5%
-    - First project assignment and presentation 15%
-    - Mid-term project assignment and presentation 20%
-    - Final project assignment and presentation 30%
+  - Lecture participation and highlights: 16%
+  - Reading assignments: 16%
+  - Course project assignments
+    - Project preferences and pre-proposal: 3%
+    - First project assignment and presentation: 15%
+    - Mid-term project assignment and presentation: 20%
+    - Final project assignment and presentation: 30%
 
-- **Lecture participation and mini-quizzes**
+- **Lecture participation and highlights**
   - Lectures can be attended live (using Zoom) or watched later. Students are encouraged
 to attend lectures live as often as possible, to allow them to ask live clarification
 questions, if needed. Some lectures will also contain some live survey questions.
   - While watching the lecture (either live or recorded video), students are required to fill
-a note-taking form and submit it within 42 hours from the end of the live lecture. For
-example, if the lecture ended at 4:40pm ET on Tuesday, the note-taking form is due
-Thursday at 10:40am ET.
-  - Students need to use the provided online template for the note-taking form. This form
-was designed for two main purposes: (1) train students for taking active notes during
+a form where they include their main takeaways from the lecture (aka, highlights).
+  - The form should be submitted within 42 hours from the scheduled end of the live
+lecture. For example, if the lecture was scheduled to end at 4:40pm ET on Tuesday,
+then the highlight form is due Thursday at 10:40am ET.
+  - Students need to use the provided online template for the highlight form. This form
+was designed for two main purposes: (1) help students for taking active notes during
 lectures, and (2) offer students the opportunity to ask questions about the content of
 the lectures.
-    - The note-taking form will contain 4 sub-sections, one for each of the 20-
-minute segments of the lecture (for a total of 1h20m).
-    - For each sub-section, students are asked to either include a short statement
-summarizing the main take-home message of the past 20 minutes, or write
-down a question that student would like to get an answer about, related to
-the past 20 minutes. Students should also include the slide numbers relevant
-to the question/statement.
+    - The highlight form will contain 3 sub-sections, one for each of the 30-minute
+segments of the lecture (the last segment may be shorter).
+    - For each sub-section, students are asked to include a short statement
+summarizing the main takeaway message of the past segment.
+    - Optionally students can also write down a question (with corresponding slide
+number) related to the segment.
   - The student’s questions will be reviewed by TAs and instructor. The most popular
 questions will be answered using Piazza, or with extra information during the following
 lecture. Students are always welcome to post questions directly on Piazza at any time
 if they would like clarifications or have a follow-up question.
-  - These note-taking forms will not be required for the first week and for the
-Thanksgiving week. Also, no forms are expected for weeks when a project assignment
-(first, midterm or final) is due. We expect about 20 lectures where note-taking forms
-need to be submitted.
-  - Each submitted form will be graded for 1.0 point, with 0.25 point for each sub-section
-of the form. The top 15 form will be kept for the lecture participation final grade,
-worth 15 points.
+  - These highlight forms will not be required for the first week and for the Thanksgiving
+week. Also, no forms are expected for weeks when a project assignment (first,
+midterm or final) is due. We expect about 20 lectures where highlight forms need to
+be submitted.
+  - Each submitted form will be graded for 1.0 point. The top 16 scores will be kept for the
+lecture participation final grade.
 
 - **Reading assignments**
   - Reading assignments are designed to complement the lectures and showcase recent
 state-of-the-art research. Most reading assignments will consist of 2 or 3 research
-papers, sometime accompanied of optional readings. The list of research papers will be
-released at the latest on the Monday of each week.
+papers, sometimes accompanied by optional readings. The list of research papers will
+be released at the latest on the Monday of each week.
   - To encourage exchange of ideas and knowledge between students, each student will
-be part of one study group. A study group consist of 9-15 students. These groups will
-be formed based on the project teams (see more details in next section about course
-project). Each study group will consist of approximately 3-4 project teams together.
-Each study group will have its own discussion forum to ask questions and share ideas.
-  - For each reading assignment, each student is required to read only one research paper
-(out of the 2 or 3 assigned paper). Students need to fill a summary form for the paper
-they had to read and post the summary form before Friday 8pm ET. These summaries
-will be shared with the other students in their study group. The goal is to write the
-summaries so that other members in the study group can learn from it, and possibly
-ask follow-up questions.
-  - During the 7-day period of the reading assignment (Monday 8pm ET until the following
-Monday 8pm ET), each student is required to post on the group’s forum at least once,
-either a question or an answer. The question could be about the paper they are
-currently reading, or about the other paper(s) that other group members are reading.
-  - Reading assignments will be per released weekly, with exceptions when a project
+be part of one study group. A study group consists of 9-10 students. These groups will
+be randomly created, to encourage diversity in these groups. Each study group will
+have its own discussion forum to ask questions and share ideas.
+  - The reading assignments consist of two main parts: (a) submission of discussion post
+summarizing the paper you read that week (see more details below), and (b) active
+participation in the follow-up discussions, including at least 2 extra posts.
+    - For each reading assignment, each student is required to read only one
+research paper (out of the 2 or 3 assigned paper). Students need to write a
+summary statement for their paper and post it in the discussion forum before
+Friday 8pm ET. These summary posts will allow other study group members to
+learn about the papers they did not read directly, and possibly ask follow-up
+questions.
+    - During the 7-day period of the reading assignment (Monday 8pm ET until the
+following Monday 8pm ET), each student is expected to post their summary
+and two extra posts. These extra posts can be follow-up questions, additional
+information, answers, or new insights. These extra posts can be about their
+own paper or the other papers.
+  - Reading assignments will be released weekly, with exceptions when a project
 assignment (first, midterm or final) is due the same week. Also, no reading
-assignments during the first week and during Thanksgiving week.
-    - We expect 10 reading assignments this semester.
-  - Each reading assignment is worth 1.5 points: 1.0 point for the paper summary and 0.5
-point for posting either a question or answer in the group’s forum.
+assignments during the first week and during Thanksgiving week. We expect 10
+reading assignments during the semester.
+  - Each reading assignment is worth 2.0 points: 1.0 point for the paper summary and 1.0
+point for the extra posts in the discussion. We plan to keep your top 8 reading
+assignment scores.
 
 - **Course project assignments**:
   - The goal of the course project is to experiment with state-of-the-art multimodal
