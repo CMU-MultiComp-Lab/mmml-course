@@ -50,13 +50,7 @@ title: Schedule
         <p>{{ lecture.topics }}</p>
     </td>
     <td>
-        {% if lecture.readings %}
-        <ul>
-        {% for reading in lecture.readings %}
-            <li>{{ reading }}</li>
-        {% endfor %}
-        </ul>
-        {% endif %}
+        <p>{{ lecture.readings }}</p>
     </td>
     <td>
         <p>{{ lecture.logistics }}</p>
