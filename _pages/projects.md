@@ -19,8 +19,8 @@ Fall 2017:
 2. Hai Pham, Paul Pu Liang, Thomas Manzini, Louis-Philippe Morency, Barnabas Poczos. [Found in Translation: Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/abs/1812.07809). AAAI 2019
 
 Spring 2017:
-1. Minghai Chen, Sen Wang, Paul Pu Liang, Tadas Baltrušaitis, Amir Zadeh, Louis-Philippe Morency. [Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning](https://arxiv.org/abs/1802.00924). ICMI 2017
-2. Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230). AAAI 2018
+1. Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov. [Gated-Attention Architectures for Task-Oriented Language Grounding](https://arxiv.org/abs/1706.07230). AAAI 2018
+2. Minghai Chen, Sen Wang, Paul Pu Liang, Tadas Baltrušaitis, Amir Zadeh, Louis-Philippe Morency. [Multimodal Sentiment Analysis with Word-Level Fusion and Reinforcement Learning](https://arxiv.org/abs/1802.00924). ICMI 2017
 3. Abhilasha Ravichander, Shruti Rijhwani, Rajat Kulshreshtha, Chirag Nagpal, Tadas Baltrušaitis, Louis-Philippe Morency. [Preserving Intermediate Objectives: One Simple Trick to Improve Learning for Hierarchical Models](https://arxiv.org/abs/1706.07867). 
 4. Junjie Hu, Desai Fan, Shuxin Yao, Jean Oh. [Answer-Aware Attention on Grounded Question Answering in Images](https://www.ttic.edu/nchrc/papers/27.pdf). AAAI 2017 Fall Symposium on Natural Communication for Human-Robot Collaboration
 
