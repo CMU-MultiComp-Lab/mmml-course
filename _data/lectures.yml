@@ -274,7 +274,7 @@
   slides:
   video:
   topics:
-    - Neural machine translation <br/>
+    - Tentative topic <br/>
     - Guest lecture, To be confirmed
   readings:
   logistics:
@@ -301,18 +301,6 @@
   
 - date: 12/1
   title: >
-    Lecture 14.1: <br/>
-    <strong>Bias and fairness</strong>
-  slides:
-  video:
-  topics:
-    - Bias and fairness in NLP & multimodal <br/>
-    - Guest lecture, To be confirmed
-  readings:
-  logistics:
-  
-- date: 12/3
-  title: >
     Lecture 14.2: <br/>
     <strong>Learning to connect text and images</strong>
   slides:
@@ -320,6 +308,18 @@
   topics:
     - Discourse approaches, text & images <br/>
     - Guest lecture by Malihe Alikhani
+  readings:
+  logistics:
+  
+- date: 12/3
+  title: >
+    Lecture 14.1: <br/>
+    <strong>Bias and fairness</strong>
+  slides:
+  video:
+  topics:
+    - Computational Ethics <br/>
+    - Guest lecture, Yulia Tsvetkov
   readings:
   logistics:
   
