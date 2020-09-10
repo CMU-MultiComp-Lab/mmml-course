@@ -46,6 +46,8 @@
     - Gradients and backpropagation <br/>
     - Practical deep model optimization
   readings:
+    - Baltrusaitis et al., <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank">Multimodal Learning</a> <br/>
+    - Bengio et al., <a href="https://arxiv.org/pdf/1206.5538.pdf" target="_blank">Representation Learning</a>
   logistics:
   
 - date: 9/15
