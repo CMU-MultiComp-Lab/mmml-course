@@ -54,7 +54,7 @@
   title: >
     Lecture 3.1: <br/>
     <strong>Visual unimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kf387t2pj7o5v2"
   video: "https://youtu.be/skcv-Xo33BM"
   topics:
     - Convolutional kernels and CNNs <br/>
