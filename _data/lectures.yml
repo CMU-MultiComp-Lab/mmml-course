@@ -67,7 +67,7 @@
     Lecture 3.2: <br/>
     <strong>Language unimodal representations</strong>
   slides:
-  video:
+  video: "https://youtu.be/XVHN0izviAw"
   topics:
     - Gated networks and LSTM <br/>
     - Backpropagation Through Time
