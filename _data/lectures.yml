@@ -66,7 +66,7 @@
   title: >
     Lecture 3.2: <br/>
     <strong>Language unimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kf5xck15qhe1vu"
   video: "https://youtu.be/XVHN0izviAw"
   topics:
     - Gated networks and LSTM <br/>
