@@ -113,12 +113,12 @@
 - date: 10/1
   title: >
     Lecture 5.2: <br/>
-    <strong>Structured representations</strong>
+    <strong>Alignment and representation</strong>
   slides:
   video:
   topics:
-    - Module networks <br/>
-    - Tree-based and stack models
+    - Multi-head attention <br/>
+    - Multimodal transformers
   readings:
   logistics:
   
@@ -145,12 +145,12 @@
 - date: 10/13
   title: >
     Lecture 7.1: <br/>
-    <strong>Alignment and representation</strong>
+    <strong>Alignment and translation</strong>
   slides:
   video:
   topics:
-    - Multi-head attention <br/>
-    - Multimodal transformers
+    - Module networks <br/>
+    - Tree-based and stack models
   readings:
   logistics:
   
