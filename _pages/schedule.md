@@ -52,9 +52,6 @@ title: Schedule
     <td>
         <p>{{ lecture.readings }}</p>
     </td>
-    <td>
-        <p>{{ lecture.logistics }}</p>
-    </td>
     {% endif %}
 </tr>
 {% else %}
