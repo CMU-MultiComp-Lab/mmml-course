@@ -19,6 +19,6 @@ Week 4:
 2. Wang et al., [Learning Deep Structure-Preserving Image-Text Embeddings](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzks1fk13yc). CVPR 2016
 3. Eisenschtat and Wolf, [Linking Image and Text with 2-Way Nets](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzj5yckj3wi). CVPR 2017
 4. Zhang et al., [AE2-Nets: Autoencoder in Autoencoder Networks](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzkwln5e3yh). CVPR 2019
-5. Srivastava et al., [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
-6. Aytar et al., [SoundNet: Learning Sound Representations from Unlabeled Video](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0ij2ee56i). NeurIPS 2016
-7. Wang et al., [On Deep Multi-View Representation Learning](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0xi3zf56x). ICML 2015
+5. [OPTIONAL] Srivastava et al., [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
+6. [OPTIONAL] Aytar et al., [SoundNet: Learning Sound Representations from Unlabeled Video](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0ij2ee56i). NeurIPS 2016
+7. [OPTIONAL] Wang et al., [On Deep Multi-View Representation Learning](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0xi3zf56x). ICML 2015
