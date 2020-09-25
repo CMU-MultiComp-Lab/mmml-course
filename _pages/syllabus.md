@@ -23,10 +23,13 @@ Piazza (see more details below) and the grading platform Gradescope directly fro
 Quizzes will be done using Canvas as well.
 
 **Zoom:** We will use the Zoom video platform for the live lectures on Tuesdays and Thursdays. Links
-to the live lectures will be available on Canvas. The lectures will also be recorded to allow students to watch them again later. Please make sure that your Internet connection and equipment are set up to use Zoom. During our class meetings, please keep your mic muted. If you have a question or
+to the live lectures will be available on Canvas. The lectures will also be recorded to allow students
+to watch them again later. Please make sure that your Internet connection and equipment are set
+up to use Zoom. During our class meetings, please keep your mic muted. If you have a question or
 want to answer a question, please use the chat or the “raise hand” feature (available when the
 participant list is pulled up). A TA will be monitoring these channels in order to share this
-information with the instructor. All course lectures. will be audio/video recorded, to allow students to watch asynchronously the lectures, if needed.
+information with the instructor. All course lectures. will be audio/video recorded, to allow students
+to watch asynchronously the lectures, if needed.
 
 **Piazza:** We will be using Piazza for class communication and announcements. The system is highly
 catered to getting you help fast and efficiently from classmates, the TAs and the instructor. Rather
@@ -173,7 +176,7 @@ they should contact the instructor and/or TA as promptly as possible.
 directly aligned with the course content and include at the minimum two modalities,
 preferably language and vision. At the beginning of the semester, the instructor will
 propose a set of research problems and datasets which can be used for the course
-projects.
+projects. 
   - **Pre-proposal**: We ask students to prepare a pre-proposal early in the semester to
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
@@ -183,7 +186,7 @@ an oral presentation (which will be performed remotely, with pre-recorded videos
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
 dataset and problem.
-    - Peer feedback: Following the submission of the proposal video recordings,
+    - **Peer feedback**: Following the submission of the proposal video recordings,
 students will be asked to watch the videos and share feedback. Each student
 will be assigned a subset of videos to watch. Feedback will also be given by
 instructor and TAs.
@@ -193,7 +196,7 @@ results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
 have already implemented some of the state-of-the-art baseline models for their
 selected multimodal task and dataset.
-    - Peer feedback: Like the first assignment, students will be asked to watch the
+    - **Peer feedback**: Like the first assignment, students will be asked to watch the
 midterm presentation videos and share feedback. Each student will be
 assigned a subset of videos to watch. Feedback will also be given by instructor
 and TAs.
