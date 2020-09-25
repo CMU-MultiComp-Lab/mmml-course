@@ -4,8 +4,6 @@ permalink: /fall2020/readings/
 title: Readings
 ---
 
-### Readings
-
 Week 2:
 1. Baltrusaitis et al., [Multimodal Machine Learning: A Survey and Taxonomy](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/keln1op3u2j5z1)
 2. Bengio et al., [Representation Learning: A Review and New Perspectives](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/keln1obkjer5ym)
