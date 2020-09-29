@@ -79,7 +79,7 @@
     Lecture 4.1: <br/>
     <strong>Multimodal representation learning</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfd7o5btebo2t3"
-  video:
+  video: ""https://youtu.be/37z_tJD81y8
   topics:
     - Multimodal auto-encoders <br/>
     - Multimodal joint representations
@@ -91,7 +91,7 @@
     Lecture 4.2: <br/>
     <strong>Coordinated representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffu66nwuf84p8"
-  video:
+  video: "https://youtu.be/2_dZ5GBlRgU"
   topics:
     - Deep canonical correlation analysis <br/>
     - Non-negative matrix factorization
@@ -102,7 +102,7 @@
   title: >
     Lecture 5.1: <br/>
     <strong>Multimodal alignment</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmxwo95eyz2ck"
   video:
   topics:
     - Explicit - dynamic time warping <br/>
