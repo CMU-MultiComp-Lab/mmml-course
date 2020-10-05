@@ -22,3 +22,12 @@ Week 4:
 5. [OPTIONAL] Srivastava et al., [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
 6. [OPTIONAL] Aytar et al., [SoundNet: Learning Sound Representations from Unlabeled Video](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0ij2ee56i). NeurIPS 2016
 7. [OPTIONAL] Wang et al., [On Deep Multi-View Representation Learning](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0xi3zf56x). ICML 2015
+
+Week 5:
+1. Anderson et al., [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9b4ykqt6ou). CVPR 2018
+2. Wiegreffe and Pinter, [Attention is not not Explanation](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9jk378q774). EMNLP 2019
+3. Le et al., [Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv97aseti6i1). ACL 2019 
+4. Tan and Bansal, [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv96gl6at6gg). EMNLP 2019 
+5. [OPTIONAL] Jaderberg et al., [Spatial Transformer Networks](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9lxzdpz7at). NeurIPS 2015
+6. [OPTIONAL] Li et al., [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9dtadtq6tn). ACL 2020
+7. [OPTIONAL] Tsai et al., [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9cwlllz6ra). ACL 2019
