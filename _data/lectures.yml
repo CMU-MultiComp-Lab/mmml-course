@@ -103,7 +103,7 @@
     Lecture 5.1: <br/>
     <strong>Multimodal alignment</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmxwo95eyz2ck"
-  video:
+  video: "https://www.youtube.com/watch?v=4P4qBBxpthg"
   topics:
     - Explicit - dynamic time warping <br/>
     - Implicit - attention models
@@ -115,7 +115,7 @@
     Lecture 5.2: <br/>
     <strong>Alignment and representation</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfpy1gk9j6p39h"
-  video:
+  video: "https://www.youtube.com/watch?v=xcOMHwjNLaA"
   topics:
     - Multi-head attention <br/>
     - Multimodal transformers
