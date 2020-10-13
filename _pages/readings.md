@@ -32,11 +32,8 @@ Week 5:
 6. [OPTIONAL] Li et al., [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9dtadtq6tn). ACL 2020
 7. [OPTIONAL] Tsai et al., [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9cwlllz6ra). ACL 2019
 
-Week 6:
-
 Week 7:
 1. Mao et al., [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf). ICLR 2019
-module networks for dialog https://arxiv.org/pdf/1809.01816.pdf, 3. differentiable dynamic time warping https://arxiv.org/pdf/1703.01541.pdf for the first lecture
 2. Kottur et al., [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/pdf/1809.01816.pdf). ECCV 2018
 3. Cuturi and Blondel, [Soft-DTW: a Differentiable Loss Function for Time-Series](https://arxiv.org/pdf/1703.01541.pdf). ICML 2017
 4. Zhu et al., [Toward Multimodal Image-to-Image Translation](https://papers.nips.cc/paper/6650-toward-multimodal-image-to-image-translation.pdf). NeurIPS 2017
