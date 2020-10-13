@@ -19,7 +19,7 @@ Week 4:
 2. Wang et al., [Learning Deep Structure-Preserving Image-Text Embeddings](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzks1fk13yc). CVPR 2016
 3. Eisenschtat and Wolf, [Linking Image and Text with 2-Way Nets](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzj5yckj3wi). CVPR 2017
 4. Zhang et al., [AE2-Nets: Autoencoder in Autoencoder Networks](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzkwln5e3yh). CVPR 2019
-5. [OPTIONAL] Srivastava et al., [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
+5. [OPTIONAL] Srivastava and Salakhutdinov, [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
 6. [OPTIONAL] Aytar et al., [SoundNet: Learning Sound Representations from Unlabeled Video](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0ij2ee56i). NeurIPS 2016
 7. [OPTIONAL] Wang et al., [On Deep Multi-View Representation Learning](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0xi3zf56x). ICML 2015
 
@@ -38,6 +38,5 @@ Week 7:
 3. Cuturi and Blondel, [Soft-DTW: a Differentiable Loss Function for Time-Series](https://arxiv.org/pdf/1703.01541.pdf). ICML 2017
 4. Zhu et al., [Toward Multimodal Image-to-Image Translation](https://papers.nips.cc/paper/6650-toward-multimodal-image-to-image-translation.pdf). NeurIPS 2017
 5. [OPTIONAL] Bengio, [An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition](https://papers.nips.cc/paper/2301-an-asynchronous-hidden-markov-model-for-audio-visual-speech-recognition.pdf). NeurIPS 2003
-6. [OPTIONAL] Srivastava and Salakhutdinov, [Multimodal Learning with Deep Boltzmann Machines](https://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf). JMLR 2014
-7. [OPTIONAL] Caglayan et al., [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422.pdf). NAACL 2019
+6. [OPTIONAL] Caglayan et al., [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422.pdf). NAACL 2019
 
