@@ -147,7 +147,7 @@
     Lecture 7.1: <br/>
     <strong>Alignment and translation</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kg8cmjbuqab18f"
-  video:
+  video: "https://youtu.be/rLGIrhq8HlQ"
   topics:
     - Module networks <br/>
     - Tree-based and stack models
@@ -159,7 +159,7 @@
     Lecture 7.2: <br/>
     <strong>Probabilistic graphical models</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kg9w2eruan4ro"
-  video:
+  video: "https://youtu.be/L1TiP9P55-8"
   topics:
     - Dynamic Bayesian networks <br/>
     - Coupled and factor HMMs
