@@ -198,7 +198,7 @@
   video:
   topics:
     - Markov decision process <br/>
-    - Q learning and policy gradients
+    - Q learning and Deep Q learning
   readings:
   logistics:
   
@@ -209,7 +209,7 @@
   slides:
   video:
   topics:
-    - Deep Q learning <br/>
+    - Policy gradients <br/>
     - Multimodal applications
   readings:
   logistics:
