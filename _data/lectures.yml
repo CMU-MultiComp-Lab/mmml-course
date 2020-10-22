@@ -181,8 +181,8 @@
 - date: 10/22
   title: >
     Lecture 8.2: <br/>
-    <strong>Neural Generative Models</strong>
-  slides:
+    <strong>Deep Generative Models</strong>
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kglbikewtgy3xt"
   video:
   topics:
     - Variational auto-encoder <br/>
