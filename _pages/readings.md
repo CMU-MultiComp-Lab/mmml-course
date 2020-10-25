@@ -19,26 +19,18 @@ Week 4:
 2. Wang et al., [Learning Deep Structure-Preserving Image-Text Embeddings](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzks1fk13yc). CVPR 2016
 3. Eisenschtat and Wolf, [Linking Image and Text with 2-Way Nets](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzj5yckj3wi). CVPR 2017
 4. Zhang et al., [AE2-Nets: Autoencoder in Autoencoder Networks](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfcvzkwln5e3yh). CVPR 2019
-5. [OPTIONAL] Srivastava and Salakhutdinov, [Multimodal Learning with Deep Boltzmann Machines](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvkrxhdf64pl). NeurIPS 2012
-6. [OPTIONAL] Aytar et al., [SoundNet: Learning Sound Representations from Unlabeled Video](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0ij2ee56i). NeurIPS 2016
-7. [OPTIONAL] Wang et al., [On Deep Multi-View Representation Learning](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffvl0xi3zf56x). ICML 2015
 
 Week 5:
 1. Anderson et al., [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9b4ykqt6ou). CVPR 2018
 2. Wiegreffe and Pinter, [Attention is not not Explanation](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9jk378q774). EMNLP 2019
 3. Le et al., [Multimodal Transformer Networks for End-to-End Video-Grounded Dialogue Systems](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv97aseti6i1). ACL 2019 
-4. Tan and Bansal, [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv96gl6at6gg). EMNLP 2019 
-5. [OPTIONAL] Jaderberg et al., [Spatial Transformer Networks](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9lxzdpz7at). NeurIPS 2015
-6. [OPTIONAL] Li et al., [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9dtadtq6tn). ACL 2020
-7. [OPTIONAL] Tsai et al., [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv9cwlllz6ra). ACL 2019
+4. Tan and Bansal, [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmv96gl6at6gg). EMNLP 2019
 
 Week 7:
 1. Mao et al., [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/pdf/1904.12584.pdf). ICLR 2019
 2. Kottur et al., [Visual Coreference Resolution in Visual Dialog using Neural Module Networks](https://arxiv.org/pdf/1809.01816.pdf). ECCV 2018
 3. Cuturi and Blondel, [Soft-DTW: a Differentiable Loss Function for Time-Series](https://arxiv.org/pdf/1703.01541.pdf). ICML 2017
 4. Zhu et al., [Toward Multimodal Image-to-Image Translation](https://papers.nips.cc/paper/6650-toward-multimodal-image-to-image-translation.pdf). NeurIPS 2017
-5. [OPTIONAL] Bengio, [An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition](https://papers.nips.cc/paper/2301-an-asynchronous-hidden-markov-model-for-audio-visual-speech-recognition.pdf). NeurIPS 2003
-6. [OPTIONAL] Caglayan et al., [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422.pdf). NAACL 2019
 
 Week 8:
 1. Sigurdsson et al., [Asynchronous Temporal Fields for Action Recognition](https://arxiv.org/abs/1612.06371). CVPR 2017
