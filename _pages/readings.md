@@ -40,3 +40,8 @@ Week 7:
 5. [OPTIONAL] Bengio, [An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition](https://papers.nips.cc/paper/2301-an-asynchronous-hidden-markov-model-for-audio-visual-speech-recognition.pdf). NeurIPS 2003
 6. [OPTIONAL] Caglayan et al., [Probing the Need for Visual Context in Multimodal Machine Translation](https://www.aclweb.org/anthology/N19-1422.pdf). NAACL 2019
 
+Week 8:
+1. Sigurdsson et al., [Asynchronous Temporal Fields for Action Recognition](https://arxiv.org/abs/1612.06371). CVPR 2017
+2. Dai et al., [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114). CVPR 2017 
+3. Wu and Goodman, [Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335). NeurIPS 2018
+4. Zhu et al., [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). ICCV 2017
