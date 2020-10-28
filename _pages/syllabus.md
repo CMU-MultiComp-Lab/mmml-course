@@ -208,16 +208,35 @@ grade). Students are encouraged to explore new research directions. The final pr
 assignment also contains written and oral components.
 
 #### Note about late submissions
-
 In general, submitting assignments on time lets the instructional team provide feedback in a more
 timely and efficient manner. Timely submissions are particularly important for assignments with
 discussions and peer feedback, such as the reading assignments and the project assignments.
 Since things happen, please contact me and the TAs as soon as possible (the best option is usually
-via Piazza) if you are not able to submit your assignment in time. The default rule for the project
-assignments will be that you are eligible for 90% of the grade the first 48 hours that the
-assignment is late. For the reading assignments and course participation reports, late submissions
-(up to 48 hours) will be deducted 0.5 point. If you must submit beyond 48 hours past the due date,
-please contact me and the TAs as soon as possible so we can make arrangements.
+via Piazza) if you are not able to submit your assignment in time. For the reading assignments and
+lecture participation, late submissions (up to 48 hours) will be deducted 0.5 point. If you must
+submit beyond 48 hours past the due date, please contact me and the TAs as soon as possible so
+we can properly plan.
+For the reading assignment summaries, each student gets one (1) wild card to be used as a way to
+extend by up to 24 hours their deadline for the summary deadline (which is usually Fridays at
+8pm). No partial credit for the wild card (e.g., it is not possible to use only half of the card, with
+two times 12 hours). There is no need to send a note via Piazza about this wild card. We will
+automatically use your wild card the first time you submit your summary late.
+The default rule for the project assignments will be that you are eligible for 90% of the grade the
+first 48 hours that the assignment is late. Each team will get two (2) wild cards, to be used with the
+project assignment deadlines:
+- Each wild card allows the team to submit their assignment late for up to 24 extra hours. 
+- These wild cards can be used together (for a total of 48 hours), or separately (2 separate
+extensions of 24 hours).
+- Each wild card can be used for any of these 6 deadlines:
+  - First presentation deadline
+  - First report deadline
+  - Midterm Presentation deadline
+  - Midterm report deadline 
+  - Final presentation deadline
+  - Final report deadline
+- No partial credits for the wild cards (e.g., you cannot use only 40% of a wild card).
+- Each team needs to send a message on Piazza (private note to instructors) BEFORE the
+deadline to notify TAs and instructor about the intent to use a wild card (or two).
 
 #### Accommodations for Students with Disabilities
 
