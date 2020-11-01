@@ -171,7 +171,7 @@
     Lecture 8.1: <br/>
     <strong>Discriminative graphical models</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kgh0xriudrg7fb"
-  video:
+  video: "https://youtu.be/ZdR6aljufXk"
   topics:
     - Conditional random fields <br/>
     - Continuous and fully-connected CRFs
@@ -183,7 +183,7 @@
     Lecture 8.2: <br/>
     <strong>Deep Generative Models</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kglbikewtgy3xt"
-  video:
+  video: "https://youtu.be/qEbYtPhG768"
   topics:
     - Variational auto-encoder <br/>
     - Generative adversarial networks
@@ -195,7 +195,7 @@
     Lecture 9.1: <br/>
     <strong>Reinforcement learning</strong>
   slides:
-  video:
+  video: "https://youtu.be/OI02F2XEe_0"
   topics:
     - Markov decision process <br/>
     - Q learning and Deep Q learning
