@@ -194,7 +194,7 @@
   title: >
     Lecture 9.1: <br/>
     <strong>Reinforcement learning</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kgs9n4o8ft81wp"
   video: "https://youtu.be/OI02F2XEe_0"
   topics:
     - Markov decision process <br/>
@@ -206,7 +206,7 @@
   title: >
     Lecture 9.2: <br/>
     <strong>Multimodal RL</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kguil6snycmb"
   video:
   topics:
     - Policy gradients <br/>
@@ -218,7 +218,7 @@
   title: >
     Lecture 10.1: <br/>
     <strong>Fusion and co-learning</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh1cp3di6mp6xu"
   video:
   topics:
     - Multi-kernel learning and fusion <br/>
@@ -230,7 +230,7 @@
   title: >
     Lecture 10.2: <br/>
     <strong>New research directions</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh45fu0vy797l8"
   video:
   topics:
     - Recent approaches in multimodal ML
