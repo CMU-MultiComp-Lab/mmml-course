@@ -219,7 +219,7 @@
     Lecture 10.1: <br/>
     <strong>Fusion and co-learning</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh1cp3di6mp6xu"
-  video:
+  video: "https://youtu.be/2xr4P0WGKSA"
   topics:
     - Multi-kernel learning and fusion <br/>
     - Few shot learning and co-learning
@@ -231,7 +231,7 @@
     Lecture 10.2: <br/>
     <strong>New research directions</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh45fu0vy797l8"
-  video:
+  video: "https://youtu.be/g3ZpSiwusrM"
   topics:
     - Recent approaches in multimodal ML
   readings:
