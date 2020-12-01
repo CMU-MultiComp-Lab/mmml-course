@@ -37,3 +37,27 @@ Week 8:
 2. Dai et al., [Detecting Visual Relationships with Deep Relational Networks](https://arxiv.org/abs/1704.03114). CVPR 2017 
 3. Wu and Goodman, [Multimodal Generative Models for Scalable Weakly-Supervised Learning](https://arxiv.org/abs/1802.05335). NeurIPS 2018
 4. Zhu et al., [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). ICCV 2017
+
+Week 9:
+1.
+2.
+3.
+4.
+
+Week 10:
+1.
+2.
+3.
+4.
+
+Week 12:
+1.
+2.
+3.
+4.
+
+Week 14:
+1.
+2.
+3.
+4.
