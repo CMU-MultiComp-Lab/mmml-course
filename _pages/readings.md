@@ -57,7 +57,7 @@ Week 12:
 4.
 
 Week 14:
-1.
-2.
-3.
-4.
+1. Alikhani et al., [Clue: Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908). ACL 2020
+2. Agarwal et al., [History for Visual Dialog: Do we really need it?](https://arxiv.org/pdf/2005.07493.pdf). ACL 2020
+3. Barocas and Selbst, [Big Data’s Disparate Impact](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/ki64rsjlib766). California Law Review 2016
+4. Hovy and Spruit, [The Social Impact of Natural Language Processing](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/ki64qpvx44k5ei). ACL 2016
