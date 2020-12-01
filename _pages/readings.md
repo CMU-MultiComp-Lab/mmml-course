@@ -39,10 +39,10 @@ Week 8:
 4. Zhu et al., [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). ICCV 2017
 
 Week 9:
-1.
-2.
-3.
-4.
+1. Lee et al., [Making Sense of Vision and Touch: Learning Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/pdf/1907.13098.pdf). ICRA 2019
+2. Luketina at al., [A Survey of Reinforcement Learning Informed by Natural Language](https://arxiv.org/pdf/1906.03926.pdf). IJCAI 2019
+3. Das et al., [Neural Modular Control for Embodied Question Answering](https://arxiv.org/pdf/1810.11181.pdf). CoRL 2018
+4. Dai et al., [Towards Diverse and Natural Image Descriptions via a Conditional GAN](https://arxiv.org/pdf/1703.06029.pdf). ICCV 2019
 
 Week 10:
 1.
