@@ -45,16 +45,16 @@ Week 9:
 4. Dai et al., [Towards Diverse and Natural Image Descriptions via a Conditional GAN](https://arxiv.org/pdf/1703.06029.pdf). ICCV 2019
 
 Week 10:
-1.
-2.
-3.
-4.
+1. Pang and Wang, [Guessing State Tracking for Visual Dialogue](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh0rhs63hoo20w). ECCV 2020
+2. Hu et al., [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh0rhrfwmxk2o5). CVPR 2020
+3. Hudson and Manning, [Learning by Abstraction: The Neural State Machine](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh0rhm94vtu209). NeurIPS 2019
+4. Hill et al., [Grounded Language Learning Fast and Slow](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kh0rhdrt5leu0). 2020
 
 Week 12:
-1.
-2.
-3.
-4.
+1. Anderson et al., [Sim-to-Real Transfer for Vision-and-Language Navigation](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw1kazr8f4pa). CoRL 2020
+2. Blukis et al., [Mapping Navigation Instructions to Continuous Control Actions with Position-Visitation Prediction](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw2deazjf7n3). CorL 2018
+3. Kojima et al., [What is Learned in Visually Grounded Neural Syntax Acquisition](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw3h27w5720a). ACL 2020
+4. Zhu et al., [The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw3zkbfz3323). TACL 2020 
 
 Week 14:
 1. Alikhani et al., [Clue: Cross-modal Coherence Modeling for Caption Generation](https://arxiv.org/abs/2005.00908). ACL 2020
