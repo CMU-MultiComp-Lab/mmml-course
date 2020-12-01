@@ -261,7 +261,7 @@
   title: >
     Lecture 12.1: <br/>
     <strong>Embodied Language Grounding</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khoz5r5r21t4w8"
   video:
   topics:
     - Connecting Language to Action <br/>
@@ -272,12 +272,11 @@
 - date: 11/19
   title: >
     Lecture 12.2: <br/>
-    <strong>Multi-lingual representations</strong>
-  slides:
+    <strong>Multimodal Human-inspired Language Learning</strong>
+  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khpa65fn75i56o"
   video:
   topics:
-    - Tentative topic <br/>
-    - Guest lecture, To be confirmed
+    - Guest lecture by Graham Neubig
   readings:
   logistics:
   
