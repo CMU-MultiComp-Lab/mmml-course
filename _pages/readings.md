@@ -52,7 +52,7 @@ Week 10:
 
 Week 12:
 1. Anderson et al., [Sim-to-Real Transfer for Vision-and-Language Navigation](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw1kazr8f4pa). CoRL 2020
-2. Blukis et al., [Mapping Navigation Instructions to Continuous Control Actions with Position-Visitation Prediction](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw2deazjf7n3). CorL 2018
+2. Blukis et al., [Mapping Navigation Instructions to Continuous Control Actions with Position-Visitation Prediction](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw2deazjf7n3). CoRL 2018
 3. Kojima et al., [What is Learned in Visually Grounded Neural Syntax Acquisition](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw3h27w5720a). ACL 2020
 4. Zhu et al., [The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/khkw3zkbfz3323). TACL 2020 
 
