@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fall2020/homework/
+permalink: /fall2021/homework/
 title: Homework Assignments
 ---
 

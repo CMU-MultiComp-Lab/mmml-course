@@ -1,6 +1,6 @@
 ---
 layout: reports
-permalink: /fall2020/reports/
+permalink: /fall2021/reports/
 title: Completed Student Projects
 description: Computational resources for student projects were generously provided by <a href="https://aws.amazon.com/education/awseducate/" target="_blank">AWS Educate</a>.
 ---
