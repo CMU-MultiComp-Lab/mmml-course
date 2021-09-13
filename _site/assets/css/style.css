@@ -173,7 +173,7 @@ img { position: relative; margin: 0 auto; max-width: 739px; padding: 5px; margin
 
 p img { display: inline; margin: 0; padding: 0; vertical-align: middle; text-align: center; border: none; }
 
-pre, code { color: #222; background-color: #fff; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; font-size: 14px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; }
+pre, code { color: #222; background-color: #fff; font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace; font-size: 0.875em; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; }
 
 pre { padding: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); overflow: auto; }
 
@@ -204,6 +204,8 @@ th { font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-seri
 td { padding: 10px; border: 1px solid #373737; }
 
 form { background: #f2f2f2; padding: 20px; }
+
+kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color: #959da5; border-radius: 3px; box-shadow: inset 0 -1px 0 #959da5; color: #444d56; display: inline-block; font-size: 11px; line-height: 11px; padding: 3px 5px; vertical-align: middle; }
 
 /*******************************************************************************
 Full-Width Styles
