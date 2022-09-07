@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fall2020/syllabus/
+permalink: /fall2022/syllabus/
 title: Syllabus
 ---
 
@@ -298,4 +298,4 @@ Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
 - [https://piazza.com/cmu/fall2018/11777/resources](https://piazza.com/cmu/fall2018/11777/resources)
 - [https://piazza.com/cmu/fall2019/11777/resources](https://piazza.com/cmu/fall2019/11777/resources)
 
-The reading list for Fall 2020 semester will also be posted on Piazza website.
+The reading list for Fall 2022 semester will also be posted on Piazza website.
