@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /fall2020/readings/
+permalink: /fall2022/readings/
 title: Readings
 ---
 
