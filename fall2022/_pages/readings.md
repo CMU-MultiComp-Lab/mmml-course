@@ -18,3 +18,5 @@ Paper B: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Lo
 Paper C: Visualizing and Understanding Recurrent Networks<br />
 Paper D: Sharp Nearby, Fuzzy Far Away: How Neural Language Models Use Context<br />
 (optional reading) Learning Translation Invariance in CNNs<br />
+
+Week 4 (TBD) 
