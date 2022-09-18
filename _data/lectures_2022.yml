@@ -104,7 +104,7 @@
   
 - date: 9/29
   title: >
-    Lecture 5.1: <br/>
+    Lecture 5.2: <br/>
     <strong>Aligned representations</strong>
   slides: 
   video: 
@@ -118,7 +118,7 @@
   
 - date: 10/4
   title: >
-    Lecture 6.2:
+    Lecture 6.1:
     <strong>Multimodal aligned representations</strong> 
   slides:
   video:
@@ -130,7 +130,7 @@
   
 - date: 10/6
   title: >
-    Lecture 7.1: <br/>
+    Lecture 6.2: <br/>
     <strong>Multimodal Reasoning</strong>
   slides:
   video: 
@@ -154,7 +154,7 @@
 
 - date: 10/13
   title: >
-    Lecture 7.1: <br/>
+    Lecture 7.2: <br/>
     <strong>Multimodal Reasoning</strong>
   slides:
   video: 
@@ -166,7 +166,7 @@
   
 - date: 10/18
   title: >
-    Lecture 7.2: <br/>
+    Lecture 8.1: <br/>
     <strong>Fall Break Break – No lectures</strong>
   slides: 
   video: 
@@ -176,7 +176,7 @@
 
 - date: 10/20
   title: >
-    Lecture 7.2: <br/>
+    Lecture 8.2: <br/>
     <strong>Fall Break – No lectures</strong>
   slides: 
   video: 
@@ -186,7 +186,7 @@
   
 - date: 10/25
   title: >
-    Lecture 8.2: <br/>
+    Lecture 9.1: <br/>
     <strong>Generation</strong>
   slides:
   video: 
@@ -198,7 +198,7 @@
  
 - date: 10/27
   title: >
-    Lecture 8.2: <br/>
+    Lecture 9.2: <br/>
     <strong>Generation</strong>
   slides: 
   video: 
@@ -210,7 +210,7 @@
   
 - date: 11/1
   title: >
-    Lecture 7.2: <br/>
+    Lecture 10.1: <br/>
     <strong>Project Hours</strong>
   slides: 
   video: 
@@ -220,7 +220,7 @@
   
 - date: 11/3
   title: >
-    Lecture 8.1: <br/>
+    Lecture 10.2: <br/>
     <strong>Project Hours</strong>
   slides:
   video: 
@@ -230,7 +230,7 @@
   
 - date: 11/8
   title: >
-    Lecture 8.2: <br/>
+    Lecture 11.1: <br/>
     <strong>Transference</strong>
   slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kglbikewtgy3xt"
   video: "https://youtu.be/qEbYtPhG768"
@@ -242,7 +242,7 @@
 
 - date: 11/10
   title: >
-    Lecture 9.1: <br/>
+    Lecture 11.2: <br/>
     <strong>Quantification</strong>
   slides: 
   video: 
@@ -254,7 +254,7 @@
   
 - date: 11/15
   title: >
-    Lecture 9.2: <br/>
+    Lecture 12.1: <br/>
     <strong>Project Hours</strong>
   slides: 
   video: 
@@ -265,7 +265,7 @@
 
 - date: 11/17
   title: >
-    Lecture 10.1: <br/>
+    Lecture 12.2: <br/>
     <strong>New research directions</strong>
   slides: 
   video: 
@@ -276,7 +276,7 @@
   
 - date: 11/22
   title: >
-    Lecture 10.2: <br/>
+    Lecture 13.1: <br/>
     <strong>Thanksgiving Week – No Class –</strong>
   slides: 
   video: 
@@ -286,7 +286,7 @@
 
 - date: 11/24
   title: >
-    Lecture 11.1:
+    Lecture 13.2:
     <strong>Thanksgiving Week – No Class –</strong>
   slides:
   video:
@@ -296,7 +296,7 @@
   
 - date: 11/30
   title: >
-    Lecture 11.2:
+    Lecture 14.1:
     <strong>Language, Vision, and Actionst</strong> 
   slides:
   video:
@@ -308,7 +308,7 @@
   
 - date: 12/2
   title: >
-    Lecture 12.1: <br/>
+    Lecture 14.2: <br/>
     <strong>Multimodal Applications</strong>
   slides: 
   video:
