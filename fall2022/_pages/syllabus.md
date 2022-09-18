@@ -17,10 +17,8 @@ Lectures will be performed Tuesdays and Thursdays at 10:10 AM. Each lecture will
 mathematical concept related to multimodal machine learning. These lectures will be given by the
 course instructor, a guest lecturer or a TA.
 
-**Canvas:** We will use CMU Canvas as a central hub for the course. From Canvas, you can access the
-links to the live lectures (using Zoom). You can also connect to our course discussion platform
-Piazza (see more details below) and the grading platform Gradescope directly from Canvas.
-Quizzes will be done using Canvas as well.
+**Canvas:** We will be using Canvas for all course assignments. Students should be automatically
+added to the course Canvas site.
 
 **Zoom:** We will use the Zoom video platform for the live lectures on Tuesdays and Thursdays. Links
 to the live lectures will be available on Canvas. The lectures will also be recorded to allow students
@@ -38,10 +36,6 @@ Piazza. You can post privately to the instructor and TAs through Piazza website.
 accessed from the course Canvas page, or directly at this URL:
 
 [https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2020/11777/home)
-
-**Gradescope:** Students are asked to submit their project assignments through the website
-Gradescope. This platform will be used for grading and to handle any request for re-grading.
-Gradescope can be access from the course Canvas page.
 
 ### Course Material
 
@@ -69,21 +63,21 @@ Jean-Philippe Thiran, Ferran Marqués and Hervé Bourlard. Academic Press, ISBN:
 ### Project Assignments and Timeline
 
 (See Piazza for additional information)
-- **Dataset preferences** (Due on Tuesday 9/8 at 8pm ET) – Let us know your preferences for the
-datasets that you would like to use for the course project. This will help with the team
-matching process.
-- **Project Pre-proposal** (Due on Wednesday 9/16 at 8pm ET) – You should have selected your
+- **Dataset preferences** (Due on Tuesday 9/6 at 8pm ET) – Let us know your
+preferences for the datasets that you would like to use for the course project. This will help
+with the team matching process.
+- **Project Pre-proposal** (Due on Wednesday 9/14 at 8pm ET) – You should have selected your
 teammates, dataset, and task. Submit a 1-page pre-proposal plan.
-- **First assignment** (Due on Friday 10/9 at 8pm ET) – This assignment focuses on unimodal
-representations and requires a good literature review on the topic of your proposed project
-  - **Peer feedback** (Due before Friday 10/16 8pm ET) – Students are asked to watch other
-proposal presentations and share constructive feedback.
-- **Midterm assignment** (Due on Friday 11/13 at 8pm ET) – Students are asked to implement and
-evaluate state-of-the-art baseline models on their project dataset.
-    - **Peer feedback** (Due before Friday 11/20 8pm ET) – Students are asked to watch other
-midterm presentations and share constructive feedback.
-- **Final assignment** (Due on Friday 12/11 at 8pm ET) – Students should explore new ideas to
-model their multimodal research project.
+- **First assignment** (Due Sunday 9/25 at 8pm ET) This assignment requires a good literature
+review on the topic of your proposed project.
+- **Second assignment** (Due Sunday 10/9 at 8pm ET) – This assignment focuses on unimodal
+representations.
+- **Midterm assignment** (Report is due Sunday 10/30 at 8pm ET and presentations are scheduled
+Tuesday and Thursday 11/1 and 11/3) – Students are asked to implement and evaluate state-
+of-the-art baseline models on their project dataset and perform error analysis.
+- **Final assignment** (Presentations are planned Tuesday 12/6 and Thursday 12/8; reports are due
+Sunday 12/11 at 8pm ET) – Students should explore new ideas to model their multimodal
+research project.
 
 ### Grades
 
@@ -94,10 +88,11 @@ this course from a letter grade to a Pass/Fail grade.
   - Lecture participation and highlights: 16%
   - Reading assignments: 16%
   - Course project assignments
-    - Project preferences and pre-proposal: 3%
-    - First project assignment and presentation: 15%
-    - Mid-term project assignment and presentation: 20%
-    - Final project assignment and presentation: 30%
+    - Project preferences and pre-proposal: 2%
+    - First project assignment: 10%
+    - Second project assignment: 10%
+    - Mid-term report and presentation: 20%
+    - Final report and presentation: 30%
 
 - **Lecture participation and highlights**
   - Lectures can be attended live (using Zoom) or watched later. Students are encouraged
@@ -105,9 +100,9 @@ to attend lectures live as often as possible, to allow them to ask live clarific
 questions, if needed. Some lectures will also contain some live survey questions.
   - While watching the lecture (either live or recorded video), students are required to fill
 a form where they include their main takeaways from the lecture (aka, highlights).
-  - The form should be submitted within 42 hours from the scheduled end of the live
-lecture. For example, if the lecture was scheduled to end at 4:40pm ET on Tuesday,
-then the highlight form is due Thursday at 10:40am ET.
+  - The form should be submitted the same day as the lecture, before 11:59pm ET. For
+example, if the lecture was scheduled Tuesday, then the highlight form is due on the
+same Tuesday at 11:59pm ET
   - Students need to use the provided online template for the highlight form. This form
 was designed for two main purposes: (1) help students for taking active notes during
 lectures, and (2) offer students the opportunity to ask questions about the content of
@@ -142,23 +137,23 @@ have its own discussion forum to ask questions and share ideas.
 summarizing the paper you read that week (see more details below), and (b) active
 participation in the follow-up discussions, including at least 2 extra posts.
     - For each reading assignment, each student is required to read only one
-research paper (out of the 2 or 3 assigned paper). Students need to write a
-summary statement for their paper and post it in the discussion forum before
-Friday 8pm ET. These summary posts will allow other study group members to
-learn about the papers they did not read directly, and possibly ask follow-up
+research paper (out of all assigned papers). Students need to write a summary
+statement for their paper and post it in the discussion forum before Friday
+8pm ET. These summary posts will allow other study group members to learn
+about the papers they did not read directly, and possibly ask follow-up
 questions.
-    - During the 7-day period of the reading assignment (Monday 8pm ET until the
-following Monday 8pm ET), each student is expected to post their summary
-and two extra posts. These extra posts can be follow-up questions, additional
-information, answers, or new insights. These extra posts can be about their
-own paper or the other papers.
+  - Following this Friday deadline, students are expected to read at least one
+summary for each paper they did not originally read and write a follow-up post
+to discuss similarities and differences with the paper they read and suggest
+some follow-up ideas. One follow-up post should be created for each paper
+the student did not read. For most reading assignments, the total number of
+paper options is 3, making the number of follow-up posts equal to 2.
   - Reading assignments will be released weekly, with exceptions when a project
 assignment (first, midterm or final) is due the same week. Also, no reading
 assignments during the first week and during Thanksgiving week. We expect 10
 reading assignments during the semester.
   - Each reading assignment is worth 2.0 points: 1.0 point for the paper summary and 1.0
-point for the extra posts in the discussion. We plan to keep your top 8 reading
-assignment scores.
+point for the short discussion essay.
 
 - **Course project assignments**:
   - The goal of the course project is to experiment with state-of-the-art multimodal
@@ -211,32 +206,50 @@ assignment also contains written and oral components.
 In general, submitting assignments on time lets the instructional team provide feedback in a more
 timely and efficient manner. Timely submissions are particularly important for assignments with
 discussions and peer feedback, such as the reading assignments and the project assignments.
-Since things happen, please contact me and the TAs as soon as possible (the best option is usually
-via Piazza) if you are not able to submit your assignment in time. For the reading assignments and
-lecture participation, late submissions (up to 48 hours) will be deducted 0.5 point. If you must
-submit beyond 48 hours past the due date, please contact me and the TAs as soon as possible so
-we can properly plan.
-For the reading assignment summaries, each student gets one (1) wild card to be used as a way to
-extend by up to 24 hours their deadline for the summary deadline (which is usually Fridays at
-8pm). No partial credit for the wild card (e.g., it is not possible to use only half of the card, with
-two times 12 hours). There is no need to send a note via Piazza about this wild card. We will
-automatically use your wild card the first time you submit your summary late.
-The default rule for the project assignments will be that you are eligible for 90% of the grade the
-first 48 hours that the assignment is late. Each team will get two (2) wild cards, to be used with the
-project assignment deadlines:
-- Each wild card allows the team to submit their assignment late for up to 24 extra hours. 
-- These wild cards can be used together (for a total of 48 hours), or separately (2 separate
-extensions of 24 hours).
-- Each wild card can be used for any of these 6 deadlines:
-  - First presentation deadline
-  - First report deadline
-  - Midterm Presentation deadline
-  - Midterm report deadline 
-  - Final presentation deadline
-  - Final report deadline
-- No partial credits for the wild cards (e.g., you cannot use only 40% of a wild card).
-- Each team needs to send a message on Piazza (private note to instructors) BEFORE the
-deadline to notify TAs and instructor about the intent to use a wild card (or two).
+Also, it is expected that students will attend the lectures in person. Live attendance allows
+students to participate in the discussions and ask any clarification questions.
+
+**Medical-related absences** If for medical reason you require some extra time for an assignment or
+may not be able to attend the lecture in person, please contact instructor and the TAs as soon as
+possible (the best option is usually via Piazza) and we will help define a new plan that aligns with
+your constraints.
+
+Late submission wildcards We offer students and project teams some late submission wildcard to
+help deal with potential overlaps with other courses or research deadlines. The details are
+expressed below.
+Reading assignments and lecture highlights
+- Each student will receive six (6) late submission wildcards, to be used
+individually.
+- Each wild card can be used to extend the deadline up to 24 hours from the
+original time.
+- No partial credit for the wild card (e.g., it is not possible to use only half of the
+card, with two times 12 hours).
+- These wildcards can be used together (for a total of 48 hours), or separately (2
+separate extensions of 24 hours).
+- There is no need to send a note via Piazza about theses wildcards. We will
+automatically use your wildcards your first two late submissions.
+- For any other late submission (beyond the two wildcards) then 0.5 points will
+be deducted.
+- If you must submit beyond 72 hours past the due date, please contact
+instructor and the TAs as soon as possible so we can properly plan.
+
+Project assignments
+- Each team will get two (2) wild cards, to be used with any of the project
+assignment deadlines.
+- Each wild card allows the team to submit their assignment late for up to 24
+extra hours.
+- These wild cards can be used together (for a total of 48 hours), or separately (2
+separate extensions of 24 hours).
+- Each wild card can be used for any of these 4 deadlines:
+- First assignment deadline
+- Second assignment deadline
+- Midterm report deadline
+- Final report deadline
+- No partial credits for the wild cards (e.g., you cannot use only 40% of a wild
+card).
+- Each team needs to send a message to instructors BEFORE the deadline to
+notify TAs and instructor about the intent to use a wild card (or two).
+
 
 #### Accommodations for Students with Disabilities
 
@@ -293,9 +306,12 @@ equitable and just.
 
 
 ### Bibliography
-Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
+Reading lists from Fall 2018, Fall 2019, Fall 2020 and Fall 2021 courses are available on
+Piazza:
+- https://piazza.com/cmu/fall2018/11777/resources
+- https://piazza.com/cmu/fall2019/11777/resources
+- https://piazza.com/cmu/fall2020/11777a/resources
+- https://piazza.com/cmu/fall2021/11777/resources
 
-- [https://piazza.com/cmu/fall2018/11777/resources](https://piazza.com/cmu/fall2018/11777/resources)
-- [https://piazza.com/cmu/fall2019/11777/resources](https://piazza.com/cmu/fall2019/11777/resources)
-
-The reading list for Fall 2022 semester will also be posted on Piazza website.
+The reading list for Fall 2022 semester will also be shared directly with students and posted on the
+course website.
