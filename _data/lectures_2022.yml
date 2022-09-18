@@ -48,8 +48,8 @@
   title: >
     Lecture 3.1: <br/>
     <strong>Unimodal representations</strong>
-  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kf5xck15qhe1vu"
-  video: "https://youtu.be/XVHN0izviAw"
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7z4dev15i06dg"
+  video: 
   topics:
     - Language representations <br/>
     - Signals, graphs and other modalities
@@ -60,8 +60,8 @@
   title: >
     Lecture 3.2: <br/>
     <strong>Multimodal representations</strong>
-  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfd7o5btebo2t3"
-  video: "https://youtu.be/37z_tJD81y8"
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l82c368nrxmyp"
+  video: 
   topics:
     - Cross-modal interactions <br/>
     - Multimodal fusion
@@ -72,7 +72,7 @@
   title: >
     Lecture 4.1: <br/>
     <strong>Multimodal representations</strong>
-  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffu66nwuf84p8"
+  slides: 
   video: 
   topics:
     - Coordinated representations <br/>
@@ -84,8 +84,8 @@
   title: >
     Lecture 4.2: <br/>
     <strong>Multimodal alignment and grounding</strong>
-  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmxwo95eyz2ck"
-  video: "https://www.youtube.com/watch?v=4P4qBBxpthg"
+  slides: 
+  video: 
   topics:
     - Explicit alignment <br/>
     - Multimodal grounding
