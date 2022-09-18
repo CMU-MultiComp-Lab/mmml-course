@@ -6,16 +6,16 @@ title: Readings
 
 Week 2:
 
-1. **Paper A**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 3_
+1. **Paper A**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 3_
     
-2. **Paper B**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 4_
+2. **Paper B**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 4_
     
-3. **Paper C**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 5_
+3. **Paper C**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 5_
     
-4. **Paper D**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 6_
+4. **Paper D**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 6_
     
-5. **Paper E**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 7_
-6. **Paper F**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](/class_profile/get_resource/l7azp3o09q267p/l7s095uxyu02ys) - _Section 1, Section 2, Section 8_
+5. **Paper E**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 7_
+6. **Paper F**: [Foundations & Recent Trends in Multimodal Machine Learning Definitions, Challenges, & Open Questions](https://arxiv.org/pdf/2209.03430.pdf) - _Section 1, Section 2, Section 8_
 
 Week 3:
 1. Zeiler and Fergus, [Visualizing and Understanding Convolutional Networks](https://piazza.com/class_profile/get_resource/jjyt9xcoem64k5/jlvnkpiszoo26g). ECCV 2014
