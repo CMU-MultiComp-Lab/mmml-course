@@ -114,11 +114,9 @@
   readings:
   logistics:
   
-
-  
 - date: 10/4
   title: >
-    Lecture 6.1:
+    Lecture 6.1: <br/>
     <strong>Multimodal aligned representations</strong> 
   slides:
   video:
@@ -166,18 +164,16 @@
   
 - date: 10/18
   title: >
-    Lecture 8.1: <br/>
-    <strong>Fall Break Break – No lectures</strong>
-  slides: 
-  video: 
+    Lecture 8.1: Fall Break – No lectures
+  slides:
+  video:
   topics:
   readings:
   logistics:
 
 - date: 10/20
   title: >
-    Lecture 8.2: <br/>
-    <strong>Fall Break – No lectures</strong>
+    Lecture 8.2: Fall Break – No lectures
   slides: 
   video: 
   topics:
@@ -276,23 +272,21 @@
   
 - date: 11/22
   title: >
-    Lecture 13.1: <br/>
-    <strong>Thanksgiving Week – No Class –</strong>
-  slides: 
-  video: 
-  topics:
-  readings:
-  logistics:
-
-- date: 11/24
-  title: >
-    Lecture 13.2:
-    <strong>Thanksgiving Week – No Class –</strong>
+    Lecture 13.1: Thanksgiving Week – No lectures
   slides:
   video:
   topics:
   readings:
-  logistics:
+  logistics:  
+
+- date: 11/24
+  title: >
+    Lecture 13.2: Thanksgiving Week – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:  
   
 - date: 11/30
   title: >
