@@ -71,8 +71,8 @@
 - date: 9/20
   title: >
     Lecture 4.1: <br/>
-    <strong>Multimodal representations</strong>
-  slides: 
+    <strong>Multimodal representations (Part 1)</strong>
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l89ce5lmm4s20z" 
   video: 
   topics:
     - Coordinated representations <br/>
@@ -84,7 +84,7 @@
   title: >
     Lecture 4.2: <br/>
     <strong>Multimodal alignment and grounding</strong>
-  slides: 
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8cdjdsaira413"
   video: 
   topics:
     - Explicit alignment <br/>
@@ -96,7 +96,7 @@
   title: >
     Lecture 5.1:
     Project Hours (live working sessions instead of lectures)
-  slides:
+  slides: 
   video:
   topics:
   readings:
@@ -106,7 +106,7 @@
   title: >
     Lecture 5.2: <br/>
     <strong>Aligned representations</strong>
-  slides: 
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8mbazdogvx569"
   video: 
   topics:
     - Self-attention transformer models <br/>
