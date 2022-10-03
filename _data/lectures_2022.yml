@@ -192,7 +192,7 @@
   video: 
   topics:
     - Translation, summarization, creation <br/>
-    - Generative models: VAEs
+    - Generative models and VAEs
   readings:
   logistics:
  
@@ -232,8 +232,8 @@
   title: >
     Lecture 11.1: <br/>
     <strong>Transference</strong>
-  slides: "https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kglbikewtgy3xt"
-  video: "https://youtu.be/qEbYtPhG768"
+  slides:
+  video:
   topics:
     - Modality transfer <br/>
     - Multimodal co-learning
