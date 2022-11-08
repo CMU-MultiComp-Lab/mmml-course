@@ -10,7 +10,7 @@
 
 - date: 9/1
   title: >
-    Lecture 1.2: <strong>Multimodal applications and datasets</strong>
+    Lecture 1.2: <strong>Multimodal applications</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7i6dcduwpx2e9"
   topics:
     - Research tasks and datasets <br/>
@@ -20,7 +20,7 @@
 
 - date: 9/6
   title: >
-    Lecture 2.1: <strong>Basic concepts: neural networks</strong>
+    Lecture 2.1: <strong>Background concepts</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7p80ccia5f6ds"
   topics:
     - Gradient and optimization <br/>
@@ -75,7 +75,7 @@
   
 - date: 9/22
   title: >
-    Lecture 4.2: <strong>Multimodal alignment and grounding</strong>
+    Lecture 4.2: <strong>Alignment and grounding</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8cdjdsaira413"
   video: 
   topics:
