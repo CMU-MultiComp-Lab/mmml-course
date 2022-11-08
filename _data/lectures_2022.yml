@@ -118,7 +118,7 @@
   title: >
     Lecture 6.1: <br/>
     <strong>Multimodal aligned representations</strong> 
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8tk97lle9v2yw"
   video:
   topics:
     - Multimodal transformers <br/>
@@ -130,8 +130,8 @@
   title: >
     Lecture 6.2: <br/>
     <strong>Multimodal Reasoning</strong>
-  slides:
-  video: 
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8x3h0whq2v5dj"
+  video:
   topics:
     - Structured and hierarchical models <br/>
     - Memory models
@@ -142,7 +142,7 @@
   title: >
     Lecture 7.1: <br/>
     <strong>Multimodal Reasoning</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l93o21iadx5412"
   video: 
   topics:
     - Reinforcement learning <br/>
@@ -154,7 +154,7 @@
   title: >
     Lecture 7.2: <br/>
     <strong>Multimodal Reasoning</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l974ymr9jk81a"
   video: 
   topics:
     - Logical and causal inference <br/>
@@ -184,11 +184,11 @@
   title: >
     Lecture 9.1: <br/>
     <strong>Generation</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l9oab9npklvm7"
   video: 
   topics:
     - Translation, summarization, creation <br/>
-    - Generative models and VAEs
+    - Generative models, VAEs, flows
   readings:
   logistics:
  
@@ -196,7 +196,7 @@
   title: >
     Lecture 9.2: <br/>
     <strong>Generation</strong>
-  slides: 
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l9qkaov1bge5yz"
   video: 
   topics:
     - GANs and diffusion models <br/>
@@ -207,7 +207,7 @@
 - date: 11/1
   title: >
     Lecture 10.1: <br/>
-    <strong>Project Hours</strong>
+    <strong>Midterm presentations</strong>
   slides: 
   video: 
   topics:
@@ -217,7 +217,7 @@
 - date: 11/3
   title: >
     Lecture 10.2: <br/>
-    <strong>Project Hours</strong>
+    <strong>Midterm presentations</strong>
   slides:
   video: 
   topics:
@@ -228,7 +228,7 @@
   title: >
     Lecture 11.1: <br/>
     <strong>Transference</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/la7lraa1rot1ip"
   video:
   topics:
     - Modality transfer <br/>
@@ -316,7 +316,7 @@
 - date: 12/6
   title: >
     Lecture 15.1:
-    <strong>Final project assignment</strong> (live working sessions instead of lectures)
+    <strong>Final project presentations</strong>
   slides:
   video:
   topics:
@@ -326,7 +326,7 @@
 - date: 12/8
   title: >
     Lecture 15.2:
-    <strong>Final project assignment</strong> (live working sessions instead of lectures)
+    <strong>Final project presentations</strong>
   slides:
   video:
   topics:
