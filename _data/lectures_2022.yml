@@ -1,7 +1,6 @@
 - date: 8/30
   title: >
-    Lecture 1.1: <br/>
-    <strong>Course introduction</strong>
+    Lecture 1.1: <strong>Course introduction</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7fe47r6mdc6ja"
   topics:
     - Multimodal core challenges <br/>
@@ -11,8 +10,7 @@
 
 - date: 9/1
   title: >
-    Lecture 1.2: <br/>
-    <strong>Multimodal applications and datasets</strong>
+    Lecture 1.2: <strong>Multimodal applications and datasets</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7i6dcduwpx2e9"
   topics:
     - Research tasks and datasets <br/>
@@ -22,8 +20,7 @@
 
 - date: 9/6
   title: >
-    Lecture 2.1: <br/>
-    <strong>Basic concepts: neural networks</strong>
+    Lecture 2.1: <strong>Basic concepts: neural networks</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7p80ccia5f6ds"
   topics:
     - Gradient and optimization <br/>
@@ -35,8 +32,7 @@
   
 - date: 9/8
   title: >
-    Lecture 2.2: <br/>
-    <strong>Unimodal representations</strong>
+    Lecture 2.2: <strong>Unimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7s151cp3vl4tx"
   topics:
     - Dimensions of heterogeneity <br/>
@@ -46,8 +42,7 @@
   
 - date: 9/13
   title: >
-    Lecture 3.1: <br/>
-    <strong>Unimodal representations</strong>
+    Lecture 3.1: <strong>Unimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l7z4dev15i06dg"
   video: 
   topics:
@@ -58,8 +53,7 @@
 
 - date: 9/15
   title: >
-    Lecture 3.2: <br/>
-    <strong>Multimodal representations</strong>
+    Lecture 3.2: <strong>Multimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l82c368nrxmyp"
   video: 
   topics:
@@ -70,8 +64,7 @@
   
 - date: 9/20
   title: >
-    Lecture 4.1: <br/>
-    <strong>Multimodal representations (Part 1)</strong>
+    Lecture 4.1: <strong>Multimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l89ce5lmm4s20z" 
   video: 
   topics:
@@ -82,8 +75,7 @@
   
 - date: 9/22
   title: >
-    Lecture 4.2: <br/>
-    <strong>Multimodal alignment and grounding</strong>
+    Lecture 4.2: <strong>Multimodal alignment and grounding</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8cdjdsaira413"
   video: 
   topics:
@@ -94,8 +86,7 @@
   
 - date: 9/27
   title: >
-    Lecture 5.1:
-    Project Hours (live working sessions instead of lectures)
+    Lecture 5.1: Project Hours (live working sessions instead of lectures)
   slides: 
   video:
   topics:
@@ -104,8 +95,7 @@
   
 - date: 9/29
   title: >
-    Lecture 5.2: <br/>
-    <strong>Aligned representations</strong>
+    Lecture 5.2: <strong>Aligned representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8mbazdogvx569"
   video: 
   topics:
@@ -116,8 +106,7 @@
   
 - date: 10/4
   title: >
-    Lecture 6.1: <br/>
-    <strong>Multimodal aligned representations</strong> 
+    Lecture 6.1: <strong>Aligned representations</strong> 
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8tk97lle9v2yw"
   video:
   topics:
@@ -128,8 +117,7 @@
   
 - date: 10/6
   title: >
-    Lecture 6.2: <br/>
-    <strong>Multimodal Reasoning</strong>
+    Lecture 6.2: <strong>Multimodal Reasoning</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l8x3h0whq2v5dj"
   video:
   topics:
@@ -140,8 +128,7 @@
 
 - date: 10/11
   title: >
-    Lecture 7.1: <br/>
-    <strong>Multimodal Reasoning</strong>
+    Lecture 7.1: <strong>Multimodal Reasoning</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l93o21iadx5412"
   video: 
   topics:
@@ -152,8 +139,7 @@
 
 - date: 10/13
   title: >
-    Lecture 7.2: <br/>
-    <strong>Multimodal Reasoning</strong>
+    Lecture 7.2: <strong>Multimodal Reasoning</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l974ymr9jk81a"
   video: 
   topics:
@@ -182,8 +168,7 @@
   
 - date: 10/25
   title: >
-    Lecture 9.1: <br/>
-    <strong>Generation</strong>
+    Lecture 9.1: <strong>Generation</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l9oab9npklvm7"
   video: 
   topics:
@@ -194,8 +179,7 @@
  
 - date: 10/27
   title: >
-    Lecture 9.2: <br/>
-    <strong>Generation</strong>
+    Lecture 9.2: <strong>Generation</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/l9qkaov1bge5yz"
   video: 
   topics:
@@ -224,8 +208,7 @@
   
 - date: 11/8
   title: >
-    Lecture 11.1: <br/>
-    <strong>Transference</strong>
+    Lecture 11.1: <strong>Transference</strong>
   slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/la7lraa1rot1ip"
   video:
   topics:
@@ -236,8 +219,7 @@
 
 - date: 11/10
   title: >
-    Lecture 11.2: <br/>
-    <strong>Quantification</strong>
+    Lecture 11.2: <strong>Quantification</strong>
   slides: 
   video: 
   topics:
@@ -248,8 +230,7 @@
   
 - date: 11/15
   title: >
-    Lecture 12.1: <br/>
-    <strong>Project Hours</strong>
+    Lecture 12.1: Project Hours (live working sessions instead of lectures)
   slides: 
   video: 
   topics:
@@ -259,8 +240,7 @@
 
 - date: 11/17
   title: >
-    Lecture 12.2: <br/>
-    <strong>New research directions</strong>
+    Lecture 12.2: <strong>New research directions</strong>
   slides: 
   video: 
   topics:
@@ -288,8 +268,7 @@
   
 - date: 11/30
   title: >
-    Lecture 14.1:
-    <strong>Language, Vision, Actions</strong> 
+    Lecture 14.1: <strong>Language, Vision, Actions</strong> 
   slides:
   video:
   topics:
@@ -300,8 +279,7 @@
   
 - date: 12/2
   title: >
-    Lecture 14.2: <br/>
-    <strong>Multimodal Applications</strong>
+    Lecture 14.2: <strong>Multimodal Applications</strong>
   slides: 
   video:
   topics:
