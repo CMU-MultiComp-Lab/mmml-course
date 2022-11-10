@@ -213,28 +213,29 @@
   video:
   topics:
     - Modality transfer <br/>
-    - Multimodal co-learning
+    - Transfer and multitask learning
   readings:
   logistics:
 
 - date: 11/10
   title: >
-    Lecture 11.2: <strong>Quantification</strong>
-  slides: 
-  video: 
+    Lecture 11.2: <strong>Transference</strong>
+  slides: "https://piazza.com/class_profile/get_resource/l7azp3o09q267p/laakmpql7uc28"
+  video:
   topics:
-    - Heterogeneity and interactions <br/>
-    - Biases and fairness
+    - Multimodal co-learning <br/>
+    - Co-training and self-training
   readings:
   logistics:
   
 - date: 11/15
   title: >
-    Lecture 12.1: Project Hours (live working sessions instead of lectures)
+    Lecture 12.1: <strong>Quantification</strong>
   slides: 
   video: 
   topics:
-    - Project Hours
+    - Heterogeneity and interactions <br/>
+    - Biases and fairness
   readings:
   logistics:
 
