@@ -1,1 +1,313 @@
+- date: 8/29
+  title: >
+    Lecture 1.1: <strong>Course introduction</strong>
+  slides:
+  video:
+  topics:
+    - Multimodal core challenges <br/>
+    - Course syllabus
+  readings:
+  logistics:
 
+- date: 8/31
+  title: >
+    Lecture 1.2: <strong>Multimodal applications</strong>
+  slides:
+  video:
+  topics:
+    - Research tasks and datasets <br/>
+    - Team projects
+  readings:
+  logistics:
+
+- date: 9/5
+  title: >
+    Lecture 2.1: <strong>Background concepts</strong>
+  slides:
+  video:
+  topics:
+    - Gradient and optimization <br/>
+    - Loss functions and neural networks
+  readings:
+    - Baltrusaitis et al., <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank">Multimodal Learning</a> <br/>
+    - Bengio et al., <a href="https://arxiv.org/pdf/1206.5538.pdf" target="_blank">Representation Learning</a>
+  logistics:
+  
+- date: 9/7 
+  title: >
+    Lecture 2.2: <strong>Unimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Dimensions of heterogeneity <br/>
+    - Visual representations
+  readings:
+  logistics:
+  
+- date: 9/12
+  title: >
+    Lecture 3.1: <strong>Unimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Language representations <br/>
+    - Signals, graphs and other modalities
+  readings:
+  logistics:
+
+- date: 9/14
+  title: >
+    Lecture 3.2: <strong>Multimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Cross-modal interactions <br/>
+    - Multimodal fusion
+  readings:
+  logistics:
+  
+- date: 9/19
+  title: >
+    Lecture 4.1: <strong>Multimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Coordinated representations <br/>
+    - Multimodal fission
+  readings:
+  logistics:
+  
+- date: 9/21
+  title: >
+    Lecture 4.2: <strong>Alignment and grounding</strong>
+  slides:
+  video:
+  topics:
+    - Explicit alignment <br/>
+    - Multimodal grounding
+  readings:
+  logistics:
+  
+- date: 9/26
+  title: >
+    Lecture 5.1: Project Hours (live working sessions instead of lectures)
+  slides: 
+  video:
+  topics:
+  readings:
+  logistics:  
+  
+- date: 9/28
+  title: >
+    Lecture 5.2: <strong>Aligned representations</strong>
+  slides:
+  video:
+  topics:
+    - Self-attention transformer models <br/>
+    - Masking and self-supervised learning
+  readings:
+  logistics:
+  
+- date: 10/3
+  title: >
+    Lecture 6.1: Project Hours (live working sessions instead of lectures)
+  slides:
+  video:
+  topics:
+    - Multimodal transformers <br/>
+    - Video and graph representations
+  readings:
+  logistics:
+  
+- date: 10/5
+  title: >
+    Lecture 6.2: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Structured and hierarchical models <br/>
+    - Memory models
+  readings:
+  logistics:
+
+- date: 10/10
+  title: >
+    Lecture 7.1: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Reinforcement learning <br/>
+    - Discrete structure learning
+  readings:
+  logistics:
+
+- date: 10/12
+  title: >
+    Lecture 7.2: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Logical and causal inference <br/>
+    - External knowledge
+  readings:
+  logistics:
+  
+- date: 10/17
+  title: >
+    Lecture 8.1: Fall Break – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:
+
+- date: 10/19
+  title: >
+    Lecture 8.2: Fall Break – No lectures
+  slides: 
+  video: 
+  topics:
+  readings:
+  logistics:
+  
+- date: 10/24
+  title: >
+    Lecture 9.1: <strong>Generation</strong>
+  slides:
+  video:
+  topics:
+    - Translation, summarization, creation <br/>
+    - Generative models, VAEs, flows
+  readings:
+  logistics:
+ 
+- date: 10/26
+  title: >
+    Lecture 9.2: <strong>Generation</strong>
+  slides:
+  video:
+  topics:
+    - GANs and diffusion models <br/>
+    - Model evaluation and ethics
+  readings:
+  logistics:
+  
+- date: 10/31
+  title: >
+    Lecture 10.1: Midterm presentations – No lectures
+  slides: 
+  video: 
+  topics:
+  readings:
+  logistics:
+  
+- date: 11/2
+  title: >
+    Lecture 10.2: Midterm presentations – No lectures
+  slides:
+  video: 
+  topics:
+  readings:
+  logistics:
+  
+- date: 11/7
+  title: >
+    Lecture 11.1: <strong>Transference</strong>
+  slides:
+  video:
+  topics:
+    - Modality transfer <br/>
+    - Transfer and multitask learning
+  readings:
+  logistics:
+
+- date: 11/9
+  title: >
+    Lecture 11.2: <strong>Transference</strong>
+  slides:
+  video:
+  topics:
+    - Multimodal co-learning <br/>
+    - Co-training and self-training
+  readings:
+  logistics:
+  
+- date: 11/14
+  title: >
+    Lecture 12.1: <strong>Quantification</strong>
+  slides:
+  video:
+  topics:
+    - Heterogeneity and interactions <br/>
+    - Biases and fairness
+  readings:
+  logistics:
+
+- date: 11/16
+  title: >
+    Lecture 12.2: <strong>New research directions</strong>
+  slides:
+  video:
+  topics:
+    - Recent approaches in multimodal ML
+  readings:
+  logistics:
+  
+- date: 11/21
+  title: >
+    Lecture 13.1: Thanksgiving Week – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:  
+
+- date: 11/23
+  title: >
+    Lecture 13.2: Thanksgiving Week – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:  
+  
+- date: 11/29
+  title: >
+    Lecture 14.1: <strong>Language, Vision, Actions</strong> 
+  slides:
+  video:
+  topics:
+    - Motion and navigation <br/>
+    - Robots and embodied AI
+  readings:
+  logistics:
+  
+- date: 12/1
+  title: >
+    Lecture 14.2: <strong>Multimodal Applications</strong>
+  slides: 
+  video:
+  topics:
+    - Healthcare and affective computing <br/>
+    - Artificial social intelligence
+  readings:
+  logistics:
+
+  
+- date: 12/5
+  title: >
+    Lecture 15.1: Final project presentations – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:
+
+- date: 12/7
+  title: >
+    Lecture 15.2: Final project presentations – No lectures
+  slides:
+  video:
+  topics:
+  readings:
+  logistics:
