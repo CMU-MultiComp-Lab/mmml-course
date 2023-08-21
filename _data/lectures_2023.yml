@@ -22,20 +22,7 @@
 
 - date: 9/5
   title: >
-    Lecture 2.1: <strong>Background concepts</strong>
-  slides:
-  video:
-  topics:
-    - Gradient and optimization <br/>
-    - Loss functions and neural networks
-  readings:
-    - Baltrusaitis et al., <a href="https://arxiv.org/pdf/1705.09406.pdf" target="_blank">Multimodal Learning</a> <br/>
-    - Bengio et al., <a href="https://arxiv.org/pdf/1206.5538.pdf" target="_blank">Representation Learning</a>
-  logistics:
-  
-- date: 9/7 
-  title: >
-    Lecture 2.2: <strong>Unimodal representations</strong>
+    Lecture 2.1: <strong>Unimodal representations</strong>
   slides:
   video:
   topics:
@@ -44,14 +31,25 @@
   readings:
   logistics:
   
-- date: 9/12
+- date: 9/7 
   title: >
-    Lecture 3.1: <strong>Unimodal representations</strong>
+    Lecture 2.2: <strong>Unimodal representations</strong>
   slides:
   video:
   topics:
     - Language representations <br/>
     - Signals, graphs and other modalities
+  readings:
+  logistics:
+  
+- date: 9/12
+  title: >
+    Lecture 3.1: <strong>Multimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Cross-modal interactions <br/>
+    - Multimodal fusion
   readings:
   logistics:
 
@@ -61,25 +59,14 @@
   slides:
   video:
   topics:
-    - Cross-modal interactions <br/>
-    - Multimodal fusion
-  readings:
-  logistics:
-  
-- date: 9/19
-  title: >
-    Lecture 4.1: <strong>Multimodal representations</strong>
-  slides:
-  video:
-  topics:
     - Coordinated representations <br/>
     - Multimodal fission
   readings:
   logistics:
   
-- date: 9/21
+- date: 9/19
   title: >
-    Lecture 4.2: <strong>Alignment and grounding</strong>
+    Lecture 4.1: <strong>Alignment and grounding</strong>
   slides:
   video:
   topics:
@@ -88,23 +75,36 @@
   readings:
   logistics:
   
-- date: 9/26
+- date: 9/21
   title: >
-    Lecture 5.1: Project Hours (live working sessions instead of lectures)
-  slides: 
-  video:
-  topics:
-  readings:
-  logistics:  
-  
-- date: 9/28
-  title: >
-    Lecture 5.2: <strong>Aligned representations</strong>
+    Lecture 4.2: <strong>Aligned representations</strong>
   slides:
   video:
   topics:
     - Self-attention transformer models <br/>
     - Masking and self-supervised learning
+  readings:
+  logistics:
+  
+- date: 9/26
+  title: >
+    Lecture 5.1: <strong>Multimodal transformers</strong>
+  slides:
+  video:
+  topics:
+    - Multimodal transformers <br/>
+    - Video and graph representations
+  readings:
+  logistics:
+  
+- date: 9/28
+  title: >
+    Lecture 5.2: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Structured and hierarchical models <br/>
+    - Memory models
   readings:
   logistics:
   
@@ -121,12 +121,11 @@
   
 - date: 10/5
   title: >
-    Lecture 6.2: <strong>Multimodal Reasoning</strong>
+    Lecture 6.2: <strong>Multimodal grounding</strong>
   slides:
   video:
   topics:
-    - Structured and hierarchical models <br/>
-    - Memory models
+    - Grounded semantics and pragmatics
   readings:
   logistics:
 
@@ -273,23 +272,19 @@
   
 - date: 11/29
   title: >
-    Lecture 14.1: <strong>Language, Vision, Actions</strong> 
+    Lecture 14.1: <strong>Guest lecture</strong> 
   slides:
   video:
   topics:
-    - Motion and navigation <br/>
-    - Robots and embodied AI
   readings:
   logistics:
   
 - date: 12/1
   title: >
-    Lecture 14.2: <strong>Multimodal Applications</strong>
+    Lecture 14.2: <strong>Guest lectures</strong>
   slides: 
   video:
   topics:
-    - Healthcare and affective computing <br/>
-    - Artificial social intelligence
   readings:
   logistics:
 
