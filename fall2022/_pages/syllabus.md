@@ -35,7 +35,7 @@ than emailing questions to the teaching staff, you are encouraged to post your q
 Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
 accessed from the course Canvas page, or directly at this URL:
 
-[https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2020/11777/home)
+[https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2022/11777/home)
 
 ### Course Material
 
