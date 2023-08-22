@@ -1,4 +1,3 @@
-
 ---
 layout: schedule
 permalink: /fall2023/schedule/
