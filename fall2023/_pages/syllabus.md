@@ -13,7 +13,7 @@ Latest version (in pdf) available [on Piazza](https://piazza-syllabus.s3.amazona
 
 ### Course Format
 
-Lectures will be performed Tuesdays and Thursdays at 10:10 AM. Each lecture will focus on a specific
+Lectures will be performed Tuesdays and Thursdays at 9:30 AM. Each lecture will focus on a specific
 mathematical concept related to multimodal machine learning. These lectures will be given by the
 course instructor, a guest lecturer or a TA.
 
