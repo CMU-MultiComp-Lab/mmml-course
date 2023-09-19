@@ -1,7 +1,7 @@
 - date: 8/29
   title: >
     Lecture 1.1: <strong>Course introduction</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/llvjl0qrqr138u"
   video:
   topics:
     - Multimodal core challenges <br/>
@@ -12,7 +12,7 @@
 - date: 8/31
   title: >
     Lecture 1.2: <strong>Multimodal applications</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/llymqj2h3jpoo"
   video:
   topics:
     - Research tasks and datasets <br/>
@@ -23,7 +23,7 @@
 - date: 9/5
   title: >
     Lecture 2.1: <strong>Unimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lm5izbpfrm95o5"
   video:
   topics:
     - Dimensions of heterogeneity <br/>
@@ -34,7 +34,7 @@
 - date: 9/7 
   title: >
     Lecture 2.2: <strong>Unimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lm8en2afw0x4s4"
   video:
   topics:
     - Language representations <br/>
@@ -45,7 +45,7 @@
 - date: 9/12
   title: >
     Lecture 3.1: <strong>Multimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmfnjj8tlqy7if"
   video:
   topics:
     - Cross-modal interactions <br/>
@@ -56,7 +56,7 @@
 - date: 9/14
   title: >
     Lecture 3.2: <strong>Multimodal representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmigwwr596235n"
   video:
   topics:
     - Coordinated representations <br/>
@@ -67,7 +67,7 @@
 - date: 9/19
   title: >
     Lecture 4.1: <strong>Alignment and grounding</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmqci56deg757q"
   video:
   topics:
     - Explicit alignment <br/>
