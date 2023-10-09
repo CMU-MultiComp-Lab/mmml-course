@@ -78,7 +78,7 @@
 - date: 9/21
   title: >
     Lecture 4.2: <strong>Aligned representations</strong>
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmsbgmk9haixi"
   video:
   topics:
     - Self-attention transformer models <br/>
@@ -89,7 +89,7 @@
 - date: 9/26
   title: >
     Lecture 5.1: <strong>Multimodal transformers</strong>
-  slides:
+  slides: “https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmziyucsmgr1of”
   video:
   topics:
     - Multimodal transformers <br/>
@@ -99,8 +99,8 @@
   
 - date: 9/28
   title: >
-    Lecture 5.2: <strong>Multimodal Reasoning</strong>
-  slides:
+    Lecture 5.2: <strong>Structured Representation and Reasoning</strong>
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/ln2heqg1pp66of"
   video:
   topics:
     - Structured and hierarchical models <br/>
@@ -110,8 +110,8 @@
   
 - date: 10/3
   title: >
-    Lecture 6.1: Project Hours (live working sessions instead of lectures)
-  slides:
+    Lecture 6.1: <strong> Multimodal transformers</strong>
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnadgbwu3or5f2"
   video:
   topics:
     - Multimodal transformers <br/>
@@ -121,11 +121,10 @@
   
 - date: 10/5
   title: >
-    Lecture 6.2: <strong>Multimodal grounding</strong>
+    Lecture 6.2: <strong>Guest Talk</strong>
   slides:
   video:
   topics:
-    - Grounded semantics and pragmatics
   readings:
   logistics:
 
