@@ -130,8 +130,8 @@
 
 - date: 10/10
   title: >
-    Lecture 7.1: <strong>Multimodal Reasoning</strong>
-  slides:
+    Lecture 7.1: <strong>Multimodal Interaction</strong>
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnjoc19x1kb1xl"
   video:
   topics:
     - Reinforcement learning <br/>
@@ -141,8 +141,8 @@
 
 - date: 10/12
   title: >
-    Lecture 7.2: <strong>Multimodal Reasoning</strong>
-  slides:
+    Lecture 7.2: <strong>Multimodal Infreence and Knowledge</strong>
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnmg4sj9k9a3ar"
   video:
   topics:
     - Logical and causal inference <br/>
