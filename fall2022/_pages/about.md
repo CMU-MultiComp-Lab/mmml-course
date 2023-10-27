@@ -1,6 +1,6 @@
 ---
 layout: fall2022/about
-permalink: /fall2022/
+permalink: /mmml-course/fall2022/
 title: <b>M</b>ultimodal <b>M</b>achine <b>L</b>earning
 description: 11-777 • Fall 2022 • Carnegie Mellon University
 logo: cmu-logo.png

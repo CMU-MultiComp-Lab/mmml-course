@@ -1,6 +1,6 @@
 ---
 layout: fall2020/page
-permalink: /fall2020/readings/
+permalink: /mmml-course/fall2020/readings/
 title: Readings
 ---
 

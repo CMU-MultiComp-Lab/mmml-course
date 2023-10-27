@@ -1,6 +1,6 @@
 ---
 layout: fall2022/page
-permalink: /fall2022/syllabus/
+permalink: /mmml-course/fall2022/syllabus/
 title: Syllabus
 ---
 
@@ -35,7 +35,7 @@ than emailing questions to the teaching staff, you are encouraged to post your q
 Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
 accessed from the course Canvas page, or directly at this URL:
 
-[https://piazza.com/cmu/fall2022/11777/home](https://piazza.com/cmu/fall2022/11777/home)
+[https://piazza.com/cmu/mmml-course/fall2022/11777/home](https://piazza.com/cmu/mmml-course/fall2022/11777/home)
 
 ### Course Material
 
@@ -310,7 +310,7 @@ Reading lists from Fall 2018, Fall 2019, Fall 2020 and Fall 2021 courses are ava
 Piazza:
 - https://piazza.com/cmu/fall2018/11777/resources
 - https://piazza.com/cmu/fall2019/11777/resources
-- https://piazza.com/cmu/fall2020/11777a/resources
+- https://piazza.com/cmu/mmml-course/fall2020/11777a/resources
 - https://piazza.com/cmu/fall2021/11777/resources
 
 The reading list for Fall 2022 semester will also be shared directly with students and posted on the
