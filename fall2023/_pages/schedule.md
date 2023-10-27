@@ -1,6 +1,6 @@
 ---
 layout: fall2023/schedule
-permalink: /mmml-course/fall2023/schedule/
+permalink: /fall2023/schedule/
 title: Schedule
 ---
 

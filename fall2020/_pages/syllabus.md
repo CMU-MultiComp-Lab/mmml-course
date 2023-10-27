@@ -1,6 +1,6 @@
 ---
 layout: fall2020/page
-permalink: /mmml-course/fall2020/syllabus/
+permalink: /fall2020/syllabus/
 title: Syllabus
 ---
 
