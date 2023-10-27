@@ -1,6 +1,6 @@
 ---
 layout: fall2022/page
-permalink: /mmml-course/fall2022/syllabus/
+permalink: /fall2022/syllabus/
 title: Syllabus
 ---
 
