@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /fall2020/syllabus/
+layout: fall2020/page
+permalink: /mmml-course/fall2020/syllabus/
 title: Syllabus
 ---
 
@@ -37,7 +37,7 @@ than emailing questions to the teaching staff, you are encouraged to post your q
 Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
 accessed from the course Canvas page, or directly at this URL:
 
-[https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2020/11777/home)
+[https://piazza.com/cmu/mmml-course/fall2020/11777/home](https://piazza.com/cmu/mmml-course/fall2020/11777/home)
 
 **Gradescope:** Students are asked to submit their project assignments through the website
 Gradescope. This platform will be used for grading and to handle any request for re-grading.

@@ -1,6 +1,6 @@
 ---
-layout: schedule
-permalink: /fall2023/schedule/
+layout: fall2023/schedule
+permalink: /mmml-course/fall2023/schedule/
 title: Schedule
 ---
 
@@ -48,14 +48,14 @@ title: Schedule
     </td>
     <td>
         <p>{{ lecture.topics }}</p>
-    </td>
-    {% endif %}
+​    </td>
+​    {% endif %}
 </tr>
 {% else %}
 {% assign current_module = current_module | plus: 1 %}
 {% assign module = item %}
 <tr class="info">
-    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
+​    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
 </tr>
 {% endif %}
 {% endfor %}
