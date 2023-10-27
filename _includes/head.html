@@ -8,9 +8,9 @@
   <title>{{ site.name }}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
 
-  <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">
+  <link rel="shortcut icon" href="{{ '../assets/img/favicon.ico' | relative_url }}">
 
-  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '../assets/css/main.css' | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
 
   {% if site.enable_latexjs %}
