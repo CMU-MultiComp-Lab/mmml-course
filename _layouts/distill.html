@@ -2,8 +2,8 @@
 <html>
   <head>
     {% include head.html %}
-    <script src="{{ '/mmml-course/assets/js/distillpub/template.v2.js' | relative_url }}"></script>
-    <script src="{{ '/mmml-course/assets/js/distillpub/transforms.v2.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/distillpub/template.v2.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/distillpub/transforms.v2.js' | relative_url }}"></script>
   </head>
 
   <d-front-matter>
@@ -77,7 +77,7 @@
   </body>
 
   <d-bibliography
-    src="{{ page.path | split: '/' | last | replace: '.md', '.bib' | prepend: '/mmml-course/assets/bibliography/' | relative_url }}"
+    src="{{ page.path | split: '/' | last | replace: '.md', '.bib' | prepend: '/assets/bibliography/' | relative_url }}"
   >
   </d-bibliography>
 
