@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fall2022/page
 permalink: /fall2022/syllabus/
 title: Syllabus
 ---

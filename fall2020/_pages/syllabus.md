@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fall2020/page
 permalink: /fall2020/syllabus/
 title: Syllabus
 ---

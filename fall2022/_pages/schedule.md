@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: fall2022/schedule
 permalink: /fall2022/schedule/
 title: Schedule
 ---

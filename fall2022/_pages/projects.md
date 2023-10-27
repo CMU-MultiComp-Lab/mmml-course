@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fall2022/page
 permalink: /fall2022/projects/
 title: Examples of Previous Project Reports
 description: Project reports from student teams who participated in previous editions of the MMML course
