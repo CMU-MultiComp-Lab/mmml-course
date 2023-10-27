@@ -2,13 +2,13 @@
 <script src="//code.jquery.com/jquery-{{ site.jquery_version }}.min.js"></script>
 
 <!-- Load Common JS -->
-<script src="{{ '/mmml-course/assets/js/common.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/common.js' | relative_url }}"></script>
 
 {% if site.enable_katex %}
 <!-- Load KaTeX -->
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/{{ site.katex_version }}/katex.min.css">
 <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/{{ site.katex_version }}/katex.min.js"></script>
-<script src="{{ '/mmml-course/assets/js/katex.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/katex.js' | relative_url }}"></script>
 {% endif %}
 
 {% if site.enable_anchorjs %}
@@ -22,12 +22,12 @@
 
 {% if site.enable_latexjs %}
 <!-- Adjust LaTeX JS -->
-<script src="{{ '/mmml-course/assets/js/latex.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/latex.js' | relative_url }}"></script>
 {% endif %}
 
 <!-- Include custom icon fonts -->
-<link rel="stylesheet" href="{{ '/mmml-course/assets/css/fontawesome-all.min.css' | relative_url }}">
-<link rel="stylesheet" href="{{ '/mmml-course/assets/css/academicons.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/fontawesome-all.min.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url }}">
 
 <!-- Google Analytics -->
 <script>
