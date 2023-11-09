@@ -171,7 +171,7 @@
 - date: 10/24
   title: >
     Lecture 9.1: <strong>Generation</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lo4gab2k3n2oi
   video:
   topics:
     - Translation, summarization, creation <br/>
@@ -182,7 +182,7 @@
 - date: 10/26
   title: >
     Lecture 9.2: <strong>Generation</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lo7860x9uyb76t
   video:
   topics:
     - GANs and diffusion models <br/>
@@ -220,7 +220,7 @@
 - date: 11/9
   title: >
     Lecture 11.2: <strong>Transference</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/loqkqmi75gz719
   video:
   topics:
     - Multimodal co-learning <br/>
