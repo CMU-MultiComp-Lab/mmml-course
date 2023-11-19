@@ -41,3 +41,25 @@ title: Readings
 * Paper 3 (optional): [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 * Paper 4 (optional): [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/pdf/2307.15818.pdf)
 * Paper 5 (optional): [Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control](https://arxiv.org/pdf/2303.00855.pdf)
+
+
+**Week 11**
+
+* Paper A: [VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning](https://arxiv.org/abs/2102.10407)
+* Paper B: [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA](https://arxiv.org/pdf/2209.14792.pdf)
+* Paper C: [Simple and Controllable Music Generation](https://arxiv.org/pdf/2306.05284.pdf)
+* Paper D: [Identifying Implicit Social Biases in Vision-Language Models](https://openreview.net/forum?id=LOkEuKq7K1) [Note: Major part starts after the references, page 9]
+* Paper 1 (optional): [Text-to-image Diffusion Models in Generative AI: A Survey](https://arxiv.org/abs/2303.07909)
+* Paper 2 (optional): [RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model](https://arxiv.org/abs/2309.00810)
+* Paper 3 (optional): [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325)
+* Paper 4 (optional): [MultiModal Bias: Introducing a Framework for Stereotypical Bias Assessment beyond Gender and Race in Vision Language Models](https://arxiv.org/pdf/2303.12734.pdf)
+* Paper 5 (optional): [Making the Most of Biased Samples via Contrastive Learning](https://aclanthology.org/2022.findings-emnlp.495.pdf)
+
+**Week 12**
+
+* Paper A: [Characterizing and Overcoming the Greedy Nature of Learning in Multi-modal Deep Neural Networks](https://proceedings.mlr.press/v162/wu22d.html)
+* Paper B: [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://arxiv.org/pdf/2306.02050.pdf)
+* Paper C: [What Makes Multi-modal Learning Better than Single (Provably)](https://arxiv.org/abs/2106.04538)
+* Paper D: [Factorized Contrastive Learning: Going Beyond Multi-view Redundancy](https://arxiv.org/abs/2306.05268)
+* Paper 1 (optional): [Modality Competition: What Makes Joint Training of Multi-modal Network Fail in Deep Learning? (Provably)](https://proceedings.mlr.press/v162/huang22e.html)
+* Paper 2 (optional): [Ten myths of multimodal interaction](https://dl.acm.org/doi/abs/10.1145/319382.319398)
