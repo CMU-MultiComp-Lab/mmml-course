@@ -227,11 +227,21 @@
     - Co-training and self-training
   readings:
   logistics:
-  
+
 - date: 11/14
   title: >
-    Lecture 12.1: <strong>Quantification</strong>
-  slides:
+    Lecture 12.1: <strong>New research directions</strong>
+  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/loyeyfj138i4of
+  video:
+  topics:
+    - Recent approaches in multimodal ML
+  readings:
+  logistics:
+  
+- date: 11/16
+  title: >
+    Lecture 12.2: <strong>Quantification</strong>
+  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lp0m96fzx545qi
   video:
   topics:
     - Heterogeneity and interactions <br/>
@@ -239,15 +249,7 @@
   readings:
   logistics:
 
-- date: 11/16
-  title: >
-    Lecture 12.2: <strong>New research directions</strong>
-  slides:
-  video:
-  topics:
-    - Recent approaches in multimodal ML
-  readings:
-  logistics:
+
   
 - date: 11/21
   title: >
