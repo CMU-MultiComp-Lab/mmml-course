@@ -268,7 +268,7 @@
   topics:
   readings:
   logistics:  
-  
+
 - date: 11/29
   title: >
     Lecture 14.1: <strong>Guest lecture</strong> 
@@ -276,12 +276,12 @@
   video:
   topics:
   readings:
-  logistics:
+  logistics:  
   
 - date: 12/1
   title: >
-    Lecture 14.2: <strong>Guest lectures</strong>
-  slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lpsx147hkf75gk 
+    Lecture 14.2: <strong>Guest lecture</strong>
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lpsx147hkf75gk"
   video:
   topics:
   readings:
