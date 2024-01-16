@@ -1,7 +1,9 @@
 # 11777 - Multimodal Machine Learning
 
-Course webpage for CMU course 11-777, Multimodal Machine Learning, Fall 2020 and Fall 2022
+Course webpage for CMU course 11-777, Multimodal Machine Learning
 
-https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
+Fall 2020: https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
 
-https://cmu-multicomp-lab.github.io/mmml-course/fall2022/
+Fall 2022: https://cmu-multicomp-lab.github.io/mmml-course/fall2022/
+
+Fall 2023: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
