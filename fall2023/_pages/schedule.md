@@ -34,7 +34,7 @@ title: Schedule
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
             {% else %}
-              slides
+              slides not available
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
@@ -42,7 +42,7 @@ title: Schedule
             {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
-            | video
+            | video not available
             {% endif %}
         ]
     </td>

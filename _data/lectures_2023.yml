@@ -2,7 +2,7 @@
   title: >
     Lecture 1.1: <strong>Course introduction</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/llvjl0qrqr138u"
-  video:
+  video: "https://youtu.be/DPkwjgaRvyI"
   topics:
     - Multimodal core challenges <br/>
     - Course syllabus
@@ -13,9 +13,10 @@
   title: >
     Lecture 1.2: <strong>Multimodal applications</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/llymqj2h3jpoo"
-  video:
+  video: "https://youtu.be/607EcmU9mFs"
   topics:
-    - Research tasks and datasets <br/>
+    - Research tasks <br/>
+    - Multimodal datasets <br/>
     - Team projects
   readings:
   logistics:
@@ -24,7 +25,7 @@
   title: >
     Lecture 2.1: <strong>Unimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lm5izbpfrm95o5"
-  video:
+  video: "https://youtu.be/BO-N8tb3kmw"
   topics:
     - Dimensions of heterogeneity <br/>
     - Visual representations
@@ -35,10 +36,12 @@
   title: >
     Lecture 2.2: <strong>Unimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lm8en2afw0x4s4"
-  video:
+  video: "https://youtu.be/CfSX2dFinUI"
   topics:
     - Language representations <br/>
-    - Signals, graphs and other modalities
+    - Signals representations <br/>
+    - Graphs representations <br/>
+    - Other modality representations
   readings:
   logistics:
   
@@ -46,7 +49,7 @@
   title: >
     Lecture 3.1: <strong>Multimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmfnjj8tlqy7if"
-  video:
+  video: "https://youtu.be/WL2AlMIupC4"
   topics:
     - Cross-modal interactions <br/>
     - Multimodal fusion
@@ -57,7 +60,7 @@
   title: >
     Lecture 3.2: <strong>Multimodal representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmigwwr596235n"
-  video:
+  video: "https://youtu.be/8sQDq5XzXDA"
   topics:
     - Coordinated representations <br/>
     - Multimodal fission
@@ -68,9 +71,10 @@
   title: >
     Lecture 4.1: <strong>Alignment and grounding</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmqci56deg757q"
-  video:
+  video: "https://youtu.be/iSz0WAzyFHE"
   topics:
     - Explicit alignment <br/>
+    - Multimodal training <br/>
     - Multimodal grounding
   readings:
   logistics:
@@ -79,7 +83,7 @@
   title: >
     Lecture 4.2: <strong>Aligned representations</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmsbgmk9haixi"
-  video:
+  video: "https://youtu.be/9XPG0s7IzKg"
   topics:
     - Self-attention transformer models <br/>
     - Masking and self-supervised learning
@@ -90,10 +94,11 @@
   title: >
     Lecture 5.1: <strong>Multimodal transformers</strong>
   slides: “https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lmziyucsmgr1of”
-  video:
+  video: "https://youtu.be/90AGqQYYZc0"
   topics:
-    - Multimodal transformers <br/>
-    - Video and graph representations
+    - Language pretraining <br/>
+    - Multimodal Transformer <br/>
+    - Transformer architecture
   readings:
   logistics:
   
@@ -101,7 +106,7 @@
   title: >
     Lecture 5.2: <strong>Structured Representation and Reasoning</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/ln2heqg1pp66of"
-  video:
+  video: "https://youtu.be/tiU2fcQX_9g"
   topics:
     - Structured and hierarchical models <br/>
     - Memory models
@@ -112,10 +117,11 @@
   title: >
     Lecture 6.1: <strong> Multimodal transformers</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnadgbwu3or5f2"
-  video:
+  video: "https://youtu.be/6S7w-9jT0h8"
   topics:
-    - Multimodal transformers <br/>
-    - Video and graph representations
+    - Vision transformer <br/>
+    - Video transformer <br/>
+    - Vision-language transformer
   readings:
   logistics:
   
@@ -132,21 +138,25 @@
   title: >
     Lecture 7.1: <strong>Multimodal Interaction</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnjoc19x1kb1xl"
-  video:
+  video: "https://youtu.be/Z-JCiZiHZlY"
   topics:
-    - Reinforcement learning <br/>
-    - Discrete structure learning
+    - Language and reinforcement learning <br/>
+    - Interactive learning <br/>
+    - Q-learning <br/>
+    - Policy-based methods
   readings:
   logistics:
 
 - date: 10/12
   title: >
-    Lecture 7.2: <strong>Multimodal Infreence and Knowledge</strong>
+    Lecture 7.2: <strong>Multimodal Inference and Knowledge</strong>
   slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lnmg4sj9k9a3ar"
-  video:
+  video: "https://youtu.be/23FuD8J8mqU"
   topics:
-    - Logical and causal inference <br/>
-    - External knowledge
+    - Language and discrete concepts <br/>
+    - Causal inference <br/>
+    - External knowledge <br/>
+    - Reasoning
   readings:
   logistics:
   
@@ -170,23 +180,24 @@
   
 - date: 10/24
   title: >
-    Lecture 9.1: <strong>Generation</strong>
+    Lecture 9.1: <strong>Multimodal Generation</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lo4gab2k3n2oi
-  video:
+  video: "https://youtu.be/rJq0ifAD7Ro"
   topics:
     - Translation, summarization, creation <br/>
-    - Generative models, VAEs, flows
+    - Generative models <br/>
+    - Auto-regressive language models
   readings:
   logistics:
  
 - date: 10/26
   title: >
-    Lecture 9.2: <strong>Generation</strong>
+    Lecture 9.2: <strong>New Generation Models</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lo7860x9uyb76t
-  video:
+  video: "https://youtu.be/QEAlHLyKT8A"
   topics:
-    - GANs and diffusion models <br/>
-    - Model evaluation and ethics
+    - Xixture of Guassians, VAE, diffusion models <br/>
+    - Open generation challenges
   readings:
   logistics:
   
@@ -210,7 +221,7 @@
   
 - date: 11/7
   title: >
-    Lecture 11.1: Democracy Day – No lecture
+    Lecture 11.1: Democracy Day – No lectures
   slides:
   video:
   topics:
@@ -221,7 +232,7 @@
   title: >
     Lecture 11.2: <strong>Transference</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/loqkqmi75gz719
-  video:
+  video: "https://youtu.be/GbgOqFcbgfc"
   topics:
     - Multimodal co-learning <br/>
     - Co-training and self-training
@@ -232,9 +243,11 @@
   title: >
     Lecture 12.1: <strong>New research directions</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/loyeyfj138i4of
-  video:
+  video: "https://youtu.be/p2lTDGBlx6M"
   topics:
-    - Recent approaches in multimodal ML
+    - Recent approaches in multimodal ML <br/>
+    - State-of-the-art multimodal models <br/>
+    - Understudied modalities
   readings:
   logistics:
   
@@ -242,10 +255,12 @@
   title: >
     Lecture 12.2: <strong>Quantification</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lp0m96fzx545qi
-  video:
+  video: https://youtu.be/nud4jGLwS80
   topics:
-    - Heterogeneity and interactions <br/>
-    - Biases and fairness
+    - Mathematical framework for interaction <br/> 
+    - Multimodal interaction quantification <br/> 
+    - Evaluating quantification <br/> 
+    - Optimization challenge 
   readings:
   logistics:
 
@@ -272,7 +287,7 @@
 - date: 11/29
   title: >
     Lecture 14.1: <strong>Guest lecture</strong> 
-  slides:
+  slides: "https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/lqcxzkp2f1r4wu"
   video:
   topics:
   readings:
