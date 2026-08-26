@@ -1,6 +1,6 @@
 ---
-layout: fall2023/page
-permalink: /fall2023/projects/
+layout: fall2026/page
+permalink: /fall2026/projects/
 title: Examples of Previous Project Reports
 description: Project reports from student teams who participated in previous editions of the MMML course
 ---

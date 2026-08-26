@@ -7,3 +7,5 @@ Fall 2020: https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
 Fall 2022: https://cmu-multicomp-lab.github.io/mmml-course/fall2022/
 
 Fall 2023: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
+
+Fall 2026: https://cmu-multicomp-lab.github.io/mmml-course/fall2026/
