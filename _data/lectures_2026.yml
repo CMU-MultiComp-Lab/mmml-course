@@ -1,0 +1,344 @@
+- date: 8/25
+  title: >
+    Lecture 1.1: <strong>Course introduction</strong>
+  slides:
+  video:
+  topics:
+    - Multimodal core challenges <br/>
+    - Course syllabus
+  deadline:
+  readings:
+  logistics:
+
+- date: 8/27
+  title: >
+    Lecture 1.2: <strong>Multimodal applications and datasets</strong>
+  slides:
+  video:
+  topics:
+    - Designing research questions <br/>
+    - Datasets and research task
+  deadline:
+  readings:
+  logistics:
+
+- date: 9/1
+  title: >
+    Lecture 2.1: <strong>Unimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Language representations <br/>
+    - Self-attention transformer models
+  deadline:
+  readings:
+  logistics:
+
+- date: 9/3
+  title: >
+    Lecture 2.2: <strong>Unimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Visual and signal representations <br/>
+    - Dimensions of heterogeneity
+  deadline: >
+    Read due: 9/4
+  readings:
+  logistics:
+
+- date: 9/8
+  title: >
+    Lecture 3.1: <strong>Multimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Cross-modal interactions <br/>
+    - Multimodal fusion
+  deadline: >
+    Proj. due: 9/9
+  readings:
+  logistics:
+
+- date: 9/10
+  title: >
+    Lecture 3.2: <strong>Multimodal representations</strong>
+  slides:
+  video:
+  topics:
+    - Coordinated representations <br/>
+    - Multimodal fission
+  deadline: >
+    Read due: 9/11
+  readings:
+  logistics:
+
+- date: 9/15
+  title: >
+    Lecture 4.1: <strong>Multimodal alignment and grounding</strong>
+  slides:
+  video:
+  topics:
+    - Discrete and continuous alignment <br/>
+    - Multimodal grounding
+  deadline:
+  readings:
+  logistics:
+
+- date: 9/17
+  title: >
+    Lecture 4.2: <strong>Transference</strong>
+  slides:
+  video:
+  topics:
+    - Cross-modal distillation, co-learning <br/>
+    - Pretraining, fine-tuning, post-training
+  deadline: >
+    Proj. due: 9/20
+  readings:
+  logistics:
+
+- date: 9/22
+  title: >
+    Lecture 5.1: Project presentations (proposal) – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 9/24
+  title: >
+    Lecture 5.2: Project presentations (proposal) – No lectures
+  slides:
+  video:
+  topics:
+  deadline: >
+    Read due: 9/25
+  readings:
+  logistics:
+
+- date: 9/29
+  title: >
+    Lecture 6.1: <strong>Visual-Language Models</strong>
+  slides:
+  video:
+  topics:
+    - Visual-language alignment <br/>
+    - Multimodal LLMs
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/1
+  title: >
+    Lecture 6.2: <strong>Video and Unified Spaces</strong>
+  slides:
+  video:
+  topics:
+    - Binding multiple modalities <br/>
+    - Video transformers
+  deadline: >
+    Proj. due: 10/4
+  readings:
+  logistics:
+
+- date: 10/6
+  title: >
+    Lecture 7.1: <strong>Guest lecture</strong>
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/8
+  title: >
+    Lecture 7.2: <strong>Guest lecture – Alex Wilf</strong>
+  slides:
+  video:
+  topics:
+    - Web agents – LLMs and MLLMs <br/>
+    - Self-learning and verification
+  deadline: >
+    Read due: 10/9
+  readings:
+  logistics:
+
+- date: 10/13
+  title: >
+    Lecture 8.1: Fall Break – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/15
+  title: >
+    Lecture 8.2: Fall Break – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/20
+  title: >
+    Lecture 9.1: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Modular and neuro-symbolic models <br/>
+    - Graph and structured models
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/22
+  title: >
+    Lecture 9.2: <strong>Multimodal Reasoning</strong>
+  slides:
+  video:
+  topics:
+    - Test-time computation <br/>
+    - Multimodal chain-of-thought
+  deadline: >
+    Proj. due: 10/25
+  readings:
+  logistics:
+
+- date: 10/27
+  title: >
+    Lecture 10.1: Project presentations (midterm) – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 10/29
+  title: >
+    Lecture 10.2: Project presentations (midterm) – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/3
+  title: >
+    Lecture 11.1: Democracy Day – No Class – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/5
+  title: >
+    Lecture 11.2: <strong>Multimodal Generation</strong>
+  slides:
+  video:
+  topics:
+    - Autoregressive generation
+  deadline: >
+    Read due: 11/6
+  readings:
+  logistics:
+
+- date: 11/10
+  title: >
+    Lecture 12.1: <strong>Multimodal Generation</strong>
+  slides:
+  video:
+  topics:
+    - Diffusion and flow matching <br/>
+    - Omni any-to-any models
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/12
+  title: >
+    Lecture 12.2: <strong>Visual-Language-Action</strong>
+  slides:
+  video:
+  topics:
+    - Embodied representations <br/>
+    - VLA foundation models
+  deadline: >
+    Read due: 11/13
+  readings:
+  logistics:
+
+- date: 11/17
+  title: >
+    Lecture 13.1: <strong>Quantification and Bias</strong>
+  slides:
+  video:
+  topics:
+    - Heterogeneity and bias <br/>
+    - Evaluation and learning
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/19
+  title: >
+    Lecture 13.2: <strong>New Research Directions</strong>
+  slides:
+  video:
+  topics:
+    - Recent research in multimodal ML
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/24
+  title: >
+    Lecture 14.1: Thanksgiving Week – No Class – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 11/26
+  title: >
+    Lecture 14.2: Thanksgiving Week – No Class – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 12/1
+  title: >
+    Lecture 15.1: Project presentations (final) – No lectures
+  slides:
+  video:
+  topics:
+  deadline:
+  readings:
+  logistics:
+
+- date: 12/3
+  title: >
+    Lecture 15.2: Project presentations (final) – No lectures
+  slides:
+  video:
+  topics:
+  deadline: >
+    Proj. due: 12/6
+  readings:
+  logistics:

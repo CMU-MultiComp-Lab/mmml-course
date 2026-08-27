@@ -8,7 +8,7 @@ title: Schedule
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}
 
-{% for item in site.data.lectures_2023 %}
+{% for item in site.data.lectures_2026 %}
 {% if item.date %}
 {% assign lecture = item %}
 {% assign event_type = "upcoming" %}
@@ -25,7 +25,10 @@ title: Schedule
     <th scope="row">{{ lecture.date }}</th>
     {% if lecture.title contains 'lectures' %}
     {% assign skip_classes = skip_classes | plus: 1 %}
-    <td colspan="4">{{ lecture.title }}</td>
+    <td colspan="2">{{ lecture.title }}</td>
+    <td>
+        {{ lecture.deadline }}
+​    </td>
     {% else %}
     <td>
         {{ lecture.title }}
@@ -34,7 +37,7 @@ title: Schedule
             {% if lecture.slides %}
               <a href="{{ lecture.slides }}" target="_blank">slides</a>
             {% else %}
-              slides not available
+              slides
             {% endif %}
             {% if lecture.annotated %}
               (<a href="{{ lecture.annotated }}" target="_blank">annotated</a>)
@@ -42,12 +45,15 @@ title: Schedule
             {% if lecture.video %}
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
-            | video not available
+            | video
             {% endif %}
         ]
     </td>
     <td>
         <p>{{ lecture.topics }}</p>
+​    </td>
+    <td>
+        {{ lecture.deadline }}
 ​    </td>
 ​    {% endif %}
 </tr>
@@ -55,7 +61,7 @@ title: Schedule
 {% assign current_module = current_module | plus: 1 %}
 {% assign module = item %}
 <tr class="info">
-​    <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
+​    <td colspan="4" align="center"><strong>{{ module.title }}</strong></td>
 </tr>
 {% endif %}
 {% endfor %}
