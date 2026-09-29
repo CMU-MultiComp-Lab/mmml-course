@@ -111,7 +111,7 @@
 - date: 9/24
   title: >
     Lecture 5.2: Project presentations (proposal) – No lectures
-  slides:
+  slides: 
   video:
   topics:
   deadline: >
@@ -122,7 +122,7 @@
 - date: 9/29
   title: >
     Lecture 6.1: <strong>Visual-Language Models</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mun3sjas5ye7ng
   video:
   topics:
     - Visual-language alignment <br/>
