@@ -26,3 +26,12 @@ Multimodal Representations
 * Paper 6: [On Deep Multi-View Representation Learning: Objectives and Optimization](https://arxiv.org/abs/1602.01024)
 * Paper 7: [Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models](https://arxiv.org/abs/1411.2539)
 * Paper 8: [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343)
+
+**Week 5**
+
+
+* [ImageBind: One Embedding Space To Bind Them All](https://openaccess.thecvf.com/content/CVPR2023/html/Girdhar_ImageBind_One_Embedding_Space_To_Bind_Them_All_CVPR_2023_paper.html) — CVPR 2023 — 2,304 citations: aligns six modalities within a shared embedding space
+* [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://proceedings.mlr.press/v202/li23q.html) — ICML 2023 — 13,904 citations: an approach for bridging vision encoders and language models
+* [Understanding the Emergence of Multimodal Representation Alignment](https://proceedings.mlr.press/v267/tjandrasuwita25a.html) — ICML 2025 — 30 citations: examines when multimodal alignment emerges
+* [OneLLM: One Framework to Align All Modalities with Language](https://openaccess.thecvf.com/content/CVPR2024/html/Han_OneLLM_One_Framework_to_Align_All_Modalities_with_Language_CVPR_2024_paper.html) — CVPR 2024 — 312 citations: extends alignment beyond image and text
+* [LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment](https://proceedings.iclr.cc/paper_files/paper/2024/hash/2862ccf01e3843c81623b246895bcc45-Abstract-Conference.html) — ICLR 2024 — 537 citations: uses language as the semantic anchor for aligning multiple modalities
