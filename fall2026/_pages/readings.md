@@ -35,3 +35,12 @@ Multimodal Representations
 * [Understanding the Emergence of Multimodal Representation Alignment](https://proceedings.mlr.press/v267/tjandrasuwita25a.html) — ICML 2025 — 30 citations: examines when multimodal alignment emerges
 * [OneLLM: One Framework to Align All Modalities with Language](https://openaccess.thecvf.com/content/CVPR2024/html/Han_OneLLM_One_Framework_to_Align_All_Modalities_with_Language_CVPR_2024_paper.html) — CVPR 2024 — 312 citations: extends alignment beyond image and text
 * [LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment](https://proceedings.iclr.cc/paper_files/paper/2024/hash/2862ccf01e3843c81623b246895bcc45-Abstract-Conference.html) — ICLR 2024 — 537 citations: uses language as the semantic anchor for aligning multiple modalities
+
+**Week 7**
+* [Qwen3-VL](https://arxiv.org/abs/2511.21631)
+* [Should VLMs be pretrained with image data?](https://arxiv.org/abs/2503.07603)
+* [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
+* [Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts](https://arxiv.org/abs/2405.11273v1)
+* [WAVE: Learning Unified and Versatile Audio-Visual Embeddings with Multimodal LLM](https://arxiv.org/abs/2509.21990)
+* [A Vision for Multisensory Intelligence: Sensing, Science, and Synergy](https://arxiv.org/abs/2601.04563)
+* [UGround: Towards Unified Visual Grounding with Unrolled Transformers](https://arxiv.org/abs/2510.03853)

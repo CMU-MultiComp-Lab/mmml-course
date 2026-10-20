@@ -2,7 +2,7 @@
   title: >
     Lecture 1.1: <strong>Introduction</strong>
   slides: https://piazza.com/class_profile/get_resource/ll1e0syhci53g6/llvjl0qrqr138u
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b0048bdf-8347-4424-b91b-b4b2017bb8da 
   topics:
     - Multimodal core challenges <br/>
     - Course syllabus
@@ -14,7 +14,7 @@
   title: >
     Lecture 1.2: <strong>Multimodal Research Task</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mtdeyrw8p025xx
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=113d4ef1-3f46-4a9e-b8cd-b4b301445233 
   topics:
     - Designing research questions <br/>
     - Datasets and research task
@@ -26,7 +26,7 @@
   title: >
     Lecture 2.1: <strong>Unimodal representations</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mthsfxzu5aa4gf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2af301c-0bba-4bde-a4d8-b4b900ecb154 
   topics:
     - Language representations <br/>
     - Self-attention transformer models
@@ -38,7 +38,7 @@
   title: >
     Lecture 2.2: <strong>Unimodal representations</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mthsiqihhe87e2
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84f5262c-ba57-42b3-ac05-b4ba0144287e 
   topics:
     - Visual and signal representations <br/>
     - Dimensions of heterogeneity
@@ -51,7 +51,7 @@
   title: >
     Lecture 3.1: <strong>Multimodal representations</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mts9tj7kkz54n5
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81621390-2bbb-4c03-bdd5-b4c10172a1fa
   topics:
     - Cross-modal interactions <br/>
     - Multimodal fusion
@@ -64,7 +64,7 @@
   title: >
     Lecture 3.2: <strong>Multimodal representations</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mtw7tv726sg6xs
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70858efd-a582-4b7e-aaf0-b4c10171c8b8
   topics:
     - Coordinated representations <br/>
     - Multimodal fission
@@ -77,7 +77,7 @@
   title: >
     Lecture 4.1: <strong>Multimodal alignment and grounding</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mu3wihdef9q6y1
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0fae3fc-a542-40a3-b20b-b4d9013cbf8d
   topics:
     - Discrete and continuous alignment <br/>
     - Multimodal grounding
@@ -89,7 +89,7 @@
   title: >
     Lecture 4.2: <strong>Transference</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mu4sny61i1h2jz
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95522d64-51bc-43a1-a3db-b4d9013cd92d 
   topics:
     - Cross-modal distillation, co-learning <br/>
     - Pretraining, fine-tuning, post-training
@@ -123,7 +123,7 @@
   title: >
     Lecture 6.1: <strong>Visual-Language Models</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mun3sjas5ye7ng
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=18c11c0a-606a-4a0d-974b-b4d9013cf1f3 
   topics:
     - Visual-language alignment <br/>
     - Multimodal LLMs
@@ -135,7 +135,7 @@
   title: >
     Lecture 6.2: <strong>Video and Unified Spaces</strong>
   slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/muq2lp1d9fg2wn
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbfafa4a-2af4-4fac-ac3a-b4d9013d04e9 
   topics:
     - Binding multiple modalities <br/>
     - Video transformers
@@ -147,8 +147,8 @@
 - date: 10/6
   title: >
     Lecture 7.1: <strong>Guest lecture</strong>
-  slides:
-  video:
+  slides: 
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d437bea-af4c-4f52-b4d4-b4e2010969b6
   topics:
   deadline:
   readings:
@@ -158,7 +158,7 @@
   title: >
     Lecture 7.2: <strong>Guest lecture – Alex Wilf</strong>
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fdb4c84-f4a7-43e9-9699-b4e2010989eb
   topics:
     - Web agents – LLMs and MLLMs <br/>
     - Self-learning and verification
@@ -190,7 +190,7 @@
 - date: 10/20
   title: >
     Lecture 9.1: <strong>Multimodal Reasoning</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mvg880nedn556q 
   video:
   topics:
     - Modular and neuro-symbolic models <br/>
