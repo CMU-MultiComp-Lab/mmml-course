@@ -245,7 +245,7 @@
 - date: 11/5
   title: >
     Lecture 11.2: <strong>Multimodal Generation</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mw5pdywkx5l5mh
   video:
   topics:
     - Autoregressive generation
@@ -257,7 +257,7 @@
 - date: 11/10
   title: >
     Lecture 12.1: <strong>Multimodal Generation</strong>
-  slides:
+  slides: https://piazza.com/class_profile/get_resource/mss0w3c7g6q10l/mwci4f5vpxr48k
   video:
   topics:
     - Diffusion and flow matching <br/>
